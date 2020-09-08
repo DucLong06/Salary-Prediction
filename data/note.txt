@@ -1,0 +1,51 @@
+# thời gian vắng mặt (số giờ )
+
+# Số lần đi muộn/tháng 
+
+# Số lần về sớm/tháng 
+
+# số lần vắng có phép/tháng 
+
+# số lần vắng không phép / tháng 
+
+# Số giờ OT
+
+# Đạt mục tiêu đề ra (thang 100%)
+
+# số Project trong 1 tháng 
+
+# chất lượng dự án (good,bad,medium)
+
+# thời hạn hợp đồng
+
+# ngày đánh giá hiệu suất cuối cùng 
+
+# số năm ở công ty
+
+# Số năm trong vai trò hiện tại 
+
+# năm kể từ lần cuối được thăng hạng 
+
+# tình trạng làm việc ( take leave, full time , part time)
+
+số nhân viên dưới quyền 
+
+số công ty đã từng làm việc 
+
+# tình trạng hôn nhân (Married,Divorced,Single,Widowed,Separated)
+
+# Đã có con hay chưa 
+
+# Chỉ số sức khỏe BMI 
+
+# Chiều cao
+
+# Cân nặng
+
+# Tình trạng sức khỏe 
+
+# Có hút thuốc hay không 
+
+# Có uống rượu hay không 
+
+# Phương tiện đi lại 

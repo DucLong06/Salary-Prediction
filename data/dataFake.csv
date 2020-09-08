@@ -1,0 +1,1001 @@
+,ID,di_ve_som,vang_co_phep,vang_khong_phep,OT,muc_tieu_dat_duoc,du_an,chat_luong_du_an,thoi_han_hop_dong,ngay_danh_gia_cuoi,so_nam_o_cong_ty,so_nam_trong_vi_tri_hien_tai,ngay_tang_luong_cuoi,tinh_trang_lam_viec,tinh_trang_hon_nhan,so_con,chieu_cao,can_nang,tinh_trang_suc_khoe,Hut_thuoc,Uong_ruou_bia,Phuong_tien_di_chuyen
+0,FSI_0,3,1,3,1,100,0,0,3,05/09/2020 ,1,5,31/10/2019 ,full time,chua co gia dinh,2,160,60,khong bi benh,co,khong,xe may
+1,FSI_1,4,2,0,5,90,4,0,1,22/07/2020 ,1,2,01/04/2020 ,part time,chua co gia dinh,2,170,40,khong bi benh,khong,khong,bus
+2,FSI_2,0,5,4,5,90,3,4,1,27/08/2020 ,3,1,29/05/2020 ,part time,co gia dinh,2,160,40,dang bi benh,co,co,bus
+3,FSI_3,0,4,2,2,70,2,3,2,07/09/2020 ,1,1,19/05/2020 ,full time,co gia dinh,3,150,60,dang bi benh,khong,co,bus
+4,FSI_4,2,3,5,5,70,4,4,1,07/09/2020 ,0,0,04/09/2020 ,full time,chua co gia dinh,2,150,50,khong bi benh,khong,co,xe may
+5,FSI_5,2,1,1,4,80,3,4,1,18/09/2019 ,1,5,24/03/2020 ,nghi phep,co gia dinh,0,165,60,khong bi benh,co,khong,oto
+6,FSI_6,3,3,3,3,70,0,3,2,23/06/2020 ,5,3,09/02/2020 ,full time,co gia dinh,1,170,50,dang bi benh,khong,khong,xe may
+7,FSI_7,3,1,2,0,100,0,3,1,16/07/2020 ,3,4,30/05/2020 ,part time,co gia dinh,2,180,50,dang bi benh,co,khong,bus
+8,FSI_8,1,2,2,0,100,2,3,1,17/01/2020 ,2,2,18/12/2019 ,part time,chua co gia dinh,3,175,60,khong bi benh,khong,co,oto
+9,FSI_9,2,0,0,2,90,0,4,2,10/05/2020 ,1,0,24/02/2020 ,full time,co gia dinh,2,160,60,khong bi benh,khong,khong,xe may
+10,FSI_10,0,3,0,1,70,1,2,1,22/03/2020 ,0,0,05/06/2020 ,part time,co gia dinh,0,170,60,khong bi benh,co,khong,bus
+11,FSI_11,0,0,1,0,80,3,4,3,14/04/2020 ,1,1,12/12/2019 ,nghi phep,co gia dinh,0,160,60,dang bi benh,co,khong,bus
+12,FSI_12,5,1,1,4,90,4,3,1,15/03/2020 ,0,2,23/05/2020 ,full time,chua co gia dinh,1,150,70,dang bi benh,khong,khong,xe may
+13,FSI_13,3,4,1,0,80,1,1,3,10/02/2020 ,2,0,01/02/2020 ,part time,chua co gia dinh,0,150,70,khong bi benh,khong,khong,xe may
+14,FSI_14,0,0,1,1,70,1,3,1,25/06/2020 ,0,5,13/06/2020 ,part time,chua co gia dinh,1,150,70,khong bi benh,co,khong,bus
+15,FSI_15,1,3,1,0,100,0,1,3,21/04/2020 ,2,2,15/06/2020 ,part time,co gia dinh,1,175,60,khong bi benh,co,khong,bus
+16,FSI_16,3,0,1,5,80,1,0,1,07/11/2019 ,2,2,06/02/2020 ,part time,co gia dinh,0,180,40,khong bi benh,co,co,xe may
+17,FSI_17,1,5,0,5,70,0,0,3,14/11/2019 ,2,0,16/02/2020 ,part time,co gia dinh,2,175,50,khong bi benh,khong,khong,xe may
+18,FSI_18,0,0,1,0,80,4,4,2,16/07/2020 ,1,5,18/06/2020 ,full time,chua co gia dinh,2,180,40,khong bi benh,khong,co,oto
+19,FSI_19,2,3,1,3,90,4,1,1,07/04/2020 ,5,0,09/09/2019 ,nghi phep,chua co gia dinh,2,165,70,khong bi benh,co,khong,bus
+20,FSI_20,1,5,0,0,80,2,2,1,19/03/2020 ,0,3,23/06/2020 ,part time,co gia dinh,0,165,60,khong bi benh,khong,co,bus
+21,FSI_21,1,0,3,2,100,0,3,1,06/10/2019 ,4,0,13/01/2020 ,nghi phep,chua co gia dinh,2,150,60,dang bi benh,khong,co,oto
+22,FSI_22,0,3,1,4,80,1,1,3,28/04/2020 ,5,2,18/12/2019 ,full time,chua co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+23,FSI_23,0,4,0,5,80,0,0,1,26/11/2019 ,2,2,05/08/2020 ,full time,chua co gia dinh,1,165,70,khong bi benh,co,co,oto
+24,FSI_24,0,4,4,0,80,2,0,1,07/07/2020 ,3,2,06/05/2020 ,nghi phep,co gia dinh,1,160,40,khong bi benh,khong,khong,bus
+25,FSI_25,4,1,0,4,70,2,0,1,05/04/2020 ,3,2,15/05/2020 ,full time,co gia dinh,1,175,50,khong bi benh,co,khong,xe may
+26,FSI_26,1,0,4,5,80,0,0,3,12/11/2019 ,4,1,10/05/2020 ,full time,co gia dinh,3,170,40,dang bi benh,khong,co,xe may
+27,FSI_27,2,0,0,1,70,0,2,2,21/07/2020 ,0,5,02/10/2019 ,full time,co gia dinh,0,175,60,khong bi benh,khong,co,bus
+28,FSI_28,1,2,1,4,100,0,2,1,25/02/2020 ,2,2,22/07/2020 ,full time,chua co gia dinh,1,170,40,khong bi benh,khong,khong,bus
+29,FSI_29,0,0,0,3,70,1,3,1,13/10/2019 ,1,2,01/05/2020 ,nghi phep,chua co gia dinh,0,175,50,dang bi benh,co,co,xe may
+30,FSI_30,5,4,4,0,100,4,0,2,26/04/2020 ,0,1,07/05/2020 ,part time,co gia dinh,0,175,40,dang bi benh,co,khong,oto
+31,FSI_31,3,2,1,1,90,3,0,3,19/09/2019 ,0,3,16/03/2020 ,part time,co gia dinh,2,165,70,dang bi benh,khong,co,xe may
+32,FSI_32,5,1,2,3,90,0,1,3,29/02/2020 ,1,2,11/08/2020 ,full time,co gia dinh,1,160,70,khong bi benh,khong,khong,bus
+33,FSI_33,1,3,1,0,70,2,3,2,30/12/2019 ,2,1,28/11/2019 ,part time,chua co gia dinh,0,150,70,dang bi benh,khong,khong,bus
+34,FSI_34,0,5,1,0,100,3,2,3,20/08/2020 ,1,1,11/05/2020 ,nghi phep,co gia dinh,2,170,70,dang bi benh,co,co,xe may
+35,FSI_35,4,2,0,2,80,5,4,3,24/10/2019 ,4,3,18/10/2019 ,nghi phep,chua co gia dinh,1,150,50,khong bi benh,khong,co,bus
+36,FSI_36,5,0,1,4,100,1,0,1,11/02/2020 ,5,0,23/01/2020 ,nghi phep,chua co gia dinh,1,165,60,dang bi benh,khong,khong,xe may
+37,FSI_37,4,0,1,1,90,1,0,1,10/07/2020 ,0,0,03/10/2019 ,part time,chua co gia dinh,0,160,70,dang bi benh,khong,co,xe may
+38,FSI_38,0,1,0,2,100,1,3,1,29/02/2020 ,2,1,02/08/2020 ,nghi phep,chua co gia dinh,0,160,60,dang bi benh,co,co,bus
+39,FSI_39,0,1,0,1,100,4,1,1,28/04/2020 ,0,5,28/09/2019 ,part time,chua co gia dinh,3,180,40,khong bi benh,khong,co,xe may
+40,FSI_40,4,2,4,2,90,5,1,1,21/08/2020 ,2,2,15/03/2020 ,part time,co gia dinh,1,160,70,dang bi benh,co,khong,xe may
+41,FSI_41,0,2,3,1,100,0,1,1,16/09/2019 ,1,3,26/04/2020 ,full time,co gia dinh,2,170,60,khong bi benh,co,co,xe may
+42,FSI_42,5,2,1,3,100,1,0,1,29/03/2020 ,0,5,16/01/2020 ,full time,co gia dinh,2,165,70,dang bi benh,khong,co,bus
+43,FSI_43,0,4,1,3,70,0,1,1,06/11/2019 ,5,0,21/09/2019 ,part time,co gia dinh,0,165,50,khong bi benh,co,co,xe may
+44,FSI_44,0,4,0,0,100,5,1,2,29/04/2020 ,5,1,20/06/2020 ,part time,chua co gia dinh,2,165,50,khong bi benh,khong,co,oto
+45,FSI_45,2,2,1,0,90,1,1,1,29/06/2020 ,0,4,03/09/2020 ,nghi phep,chua co gia dinh,1,165,50,khong bi benh,khong,khong,oto
+46,FSI_46,0,2,2,4,90,1,2,1,13/12/2019 ,2,0,05/09/2020 ,full time,co gia dinh,0,150,50,dang bi benh,khong,co,xe may
+47,FSI_47,4,0,3,5,80,4,5,3,29/06/2020 ,4,2,29/10/2019 ,part time,chua co gia dinh,0,170,50,khong bi benh,khong,khong,xe may
+48,FSI_48,5,4,4,1,70,5,1,1,18/01/2020 ,2,1,19/03/2020 ,part time,co gia dinh,2,175,50,dang bi benh,co,khong,xe may
+49,FSI_49,4,3,0,3,80,1,4,2,21/06/2020 ,0,4,17/01/2020 ,nghi phep,chua co gia dinh,2,175,70,dang bi benh,khong,co,xe may
+50,FSI_50,2,1,3,2,90,1,0,2,28/08/2020 ,5,5,13/09/2019 ,nghi phep,co gia dinh,2,175,60,khong bi benh,co,khong,xe may
+51,FSI_51,4,3,4,0,90,2,0,1,02/03/2020 ,4,1,16/05/2020 ,part time,chua co gia dinh,1,170,70,khong bi benh,khong,khong,xe may
+52,FSI_52,5,2,4,1,70,2,2,1,03/06/2020 ,5,3,31/01/2020 ,full time,co gia dinh,0,180,70,dang bi benh,khong,co,oto
+53,FSI_53,2,4,0,0,80,0,0,3,12/08/2020 ,1,0,11/04/2020 ,full time,chua co gia dinh,2,170,40,dang bi benh,khong,khong,xe may
+54,FSI_54,0,5,4,4,100,0,2,2,17/03/2020 ,5,1,08/04/2020 ,nghi phep,chua co gia dinh,2,165,70,khong bi benh,co,khong,xe may
+55,FSI_55,0,2,3,2,100,1,0,3,07/09/2020 ,3,0,03/02/2020 ,nghi phep,chua co gia dinh,1,180,70,dang bi benh,khong,co,bus
+56,FSI_56,0,0,0,2,100,1,0,3,05/06/2020 ,1,0,26/05/2020 ,part time,co gia dinh,1,150,60,dang bi benh,khong,co,xe may
+57,FSI_57,4,0,0,0,80,5,0,2,03/09/2020 ,4,1,26/04/2020 ,part time,co gia dinh,0,180,60,dang bi benh,co,co,xe may
+58,FSI_58,3,3,1,0,90,2,4,1,14/01/2020 ,1,0,11/11/2019 ,nghi phep,chua co gia dinh,0,170,40,dang bi benh,co,co,oto
+59,FSI_59,1,4,1,4,70,4,4,3,12/12/2019 ,4,3,09/06/2020 ,nghi phep,chua co gia dinh,2,170,40,dang bi benh,khong,khong,bus
+60,FSI_60,2,4,3,0,70,1,0,2,01/03/2020 ,0,2,26/05/2020 ,full time,chua co gia dinh,0,175,40,khong bi benh,khong,co,xe may
+61,FSI_61,2,0,2,5,80,0,0,1,16/09/2019 ,0,2,27/02/2020 ,nghi phep,co gia dinh,2,175,50,dang bi benh,co,co,xe may
+62,FSI_62,0,0,4,3,80,4,0,2,22/08/2020 ,0,2,03/11/2019 ,part time,co gia dinh,3,165,70,khong bi benh,khong,co,xe may
+63,FSI_63,0,0,1,2,70,5,1,1,15/10/2019 ,4,1,17/06/2020 ,nghi phep,co gia dinh,2,170,40,khong bi benh,khong,khong,xe may
+64,FSI_64,4,1,5,2,70,2,3,1,01/05/2020 ,4,3,04/05/2020 ,nghi phep,chua co gia dinh,2,150,60,khong bi benh,co,co,xe may
+65,FSI_65,0,1,1,5,80,0,0,1,08/04/2020 ,1,0,22/06/2020 ,full time,chua co gia dinh,1,170,70,dang bi benh,khong,co,oto
+66,FSI_66,1,0,1,4,100,2,2,1,05/06/2020 ,1,0,14/10/2019 ,nghi phep,chua co gia dinh,3,180,40,dang bi benh,co,co,xe may
+67,FSI_67,2,0,0,5,80,2,2,1,07/03/2020 ,0,0,31/05/2020 ,part time,chua co gia dinh,1,180,70,khong bi benh,khong,co,xe may
+68,FSI_68,2,1,0,1,80,0,2,1,15/05/2020 ,3,2,26/03/2020 ,part time,co gia dinh,2,170,70,khong bi benh,co,khong,bus
+69,FSI_69,5,2,5,1,100,3,0,1,03/10/2019 ,2,4,04/03/2020 ,full time,chua co gia dinh,1,180,50,dang bi benh,khong,co,xe may
+70,FSI_70,0,5,1,0,100,1,2,1,24/04/2020 ,0,2,21/10/2019 ,nghi phep,chua co gia dinh,2,175,50,dang bi benh,khong,co,xe may
+71,FSI_71,4,5,0,5,90,4,2,1,09/05/2020 ,1,5,15/10/2019 ,nghi phep,chua co gia dinh,1,165,50,khong bi benh,khong,co,xe may
+72,FSI_72,3,1,1,1,70,0,4,1,20/08/2020 ,5,5,19/06/2020 ,nghi phep,co gia dinh,0,170,50,khong bi benh,co,khong,bus
+73,FSI_73,0,5,2,0,70,4,3,1,04/01/2020 ,1,1,06/12/2019 ,part time,chua co gia dinh,1,170,70,khong bi benh,khong,khong,xe may
+74,FSI_74,2,0,4,2,100,2,0,1,17/09/2019 ,0,0,20/01/2020 ,nghi phep,chua co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+75,FSI_75,0,1,0,1,100,1,0,2,29/10/2019 ,1,3,02/05/2020 ,nghi phep,co gia dinh,1,160,60,dang bi benh,co,khong,oto
+76,FSI_76,4,3,0,1,70,2,3,1,09/01/2020 ,3,0,15/05/2020 ,part time,chua co gia dinh,3,175,50,khong bi benh,khong,co,oto
+77,FSI_77,2,5,1,1,100,1,0,1,22/02/2020 ,1,0,20/01/2020 ,part time,co gia dinh,0,170,60,khong bi benh,khong,khong,xe may
+78,FSI_78,1,0,0,4,90,2,1,1,18/07/2020 ,0,0,22/11/2019 ,full time,co gia dinh,2,165,60,dang bi benh,khong,khong,bus
+79,FSI_79,4,2,5,5,80,2,1,2,18/05/2020 ,4,0,09/02/2020 ,full time,co gia dinh,1,150,60,dang bi benh,co,khong,xe may
+80,FSI_80,5,5,0,2,80,3,2,1,26/06/2020 ,5,5,09/06/2020 ,part time,chua co gia dinh,1,170,50,dang bi benh,khong,co,xe may
+81,FSI_81,1,0,3,4,80,1,3,2,21/04/2020 ,0,0,18/07/2020 ,nghi phep,chua co gia dinh,1,165,40,dang bi benh,co,khong,xe may
+82,FSI_82,0,4,1,3,80,3,3,1,16/04/2020 ,2,3,13/08/2020 ,part time,chua co gia dinh,2,180,70,khong bi benh,khong,khong,xe may
+83,FSI_83,1,4,5,0,90,1,1,1,13/11/2019 ,3,0,11/01/2020 ,full time,co gia dinh,3,170,50,dang bi benh,khong,co,xe may
+84,FSI_84,0,5,3,2,80,0,4,1,06/03/2020 ,2,3,14/11/2019 ,part time,co gia dinh,2,160,70,khong bi benh,co,khong,oto
+85,FSI_85,4,0,0,0,70,4,1,2,07/03/2020 ,4,2,08/01/2020 ,full time,chua co gia dinh,0,175,50,khong bi benh,co,khong,xe may
+86,FSI_86,3,3,4,4,80,1,0,1,04/12/2019 ,5,3,25/04/2020 ,part time,co gia dinh,3,150,60,khong bi benh,khong,khong,oto
+87,FSI_87,2,1,0,0,80,4,1,2,17/10/2019 ,5,2,30/07/2020 ,nghi phep,co gia dinh,2,180,40,khong bi benh,co,khong,xe may
+88,FSI_88,0,3,1,5,70,4,4,1,29/07/2020 ,1,0,03/06/2020 ,part time,chua co gia dinh,2,165,70,khong bi benh,khong,khong,bus
+89,FSI_89,5,4,1,1,100,1,5,1,02/05/2020 ,3,1,07/01/2020 ,nghi phep,co gia dinh,1,170,60,khong bi benh,co,co,oto
+90,FSI_90,4,5,0,4,100,3,4,1,26/12/2019 ,0,0,08/10/2019 ,full time,chua co gia dinh,2,170,70,dang bi benh,co,co,oto
+91,FSI_91,1,4,3,3,80,3,4,2,23/06/2020 ,1,1,25/04/2020 ,part time,co gia dinh,1,175,70,dang bi benh,khong,khong,xe may
+92,FSI_92,0,1,1,2,100,2,0,1,08/09/2019 ,0,0,23/05/2020 ,part time,co gia dinh,0,150,70,khong bi benh,co,khong,xe may
+93,FSI_93,4,0,1,0,70,2,0,2,13/04/2020 ,2,0,02/01/2020 ,nghi phep,co gia dinh,1,170,60,dang bi benh,co,khong,xe may
+94,FSI_94,0,1,3,2,90,0,1,2,14/07/2020 ,1,5,27/10/2019 ,nghi phep,chua co gia dinh,1,165,60,dang bi benh,khong,co,xe may
+95,FSI_95,1,2,1,4,100,2,1,1,06/11/2019 ,1,4,27/05/2020 ,full time,co gia dinh,2,160,60,dang bi benh,co,co,xe may
+96,FSI_96,0,1,4,4,70,2,3,3,19/12/2019 ,0,1,29/04/2020 ,part time,chua co gia dinh,1,170,70,khong bi benh,co,khong,xe may
+97,FSI_97,1,1,0,2,80,0,2,1,01/02/2020 ,0,4,12/10/2019 ,part time,co gia dinh,1,165,60,khong bi benh,co,khong,oto
+98,FSI_98,2,2,1,0,100,0,1,1,25/04/2020 ,4,5,30/03/2020 ,nghi phep,chua co gia dinh,2,160,60,dang bi benh,co,co,xe may
+99,FSI_99,0,4,2,2,80,5,1,1,30/11/2019 ,1,0,19/06/2020 ,nghi phep,co gia dinh,0,170,50,khong bi benh,co,khong,xe may
+100,FSI_100,2,0,0,3,80,0,1,1,22/05/2020 ,1,2,14/08/2020 ,part time,co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+101,FSI_101,2,5,3,4,80,0,4,2,29/07/2020 ,1,0,25/02/2020 ,full time,chua co gia dinh,2,170,50,khong bi benh,khong,khong,bus
+102,FSI_102,0,4,1,4,90,4,2,2,27/05/2020 ,5,0,01/11/2019 ,nghi phep,co gia dinh,0,180,70,khong bi benh,co,khong,xe may
+103,FSI_103,5,0,2,3,70,0,3,1,17/04/2020 ,0,2,02/08/2020 ,part time,co gia dinh,3,150,50,dang bi benh,khong,co,xe may
+104,FSI_104,3,3,2,2,80,0,0,1,09/02/2020 ,3,5,18/02/2020 ,part time,chua co gia dinh,1,180,70,dang bi benh,khong,co,oto
+105,FSI_105,2,5,0,0,90,0,0,1,29/06/2020 ,3,3,19/08/2020 ,nghi phep,chua co gia dinh,0,165,60,khong bi benh,khong,khong,oto
+106,FSI_106,5,3,4,1,90,2,0,1,20/12/2019 ,2,1,30/03/2020 ,part time,co gia dinh,2,175,40,khong bi benh,co,khong,oto
+107,FSI_107,3,2,0,5,70,4,3,3,12/06/2020 ,2,1,06/05/2020 ,nghi phep,co gia dinh,1,150,70,khong bi benh,co,co,xe may
+108,FSI_108,1,3,0,0,90,0,0,1,29/11/2019 ,2,5,07/08/2020 ,part time,chua co gia dinh,1,165,40,dang bi benh,co,co,oto
+109,FSI_109,2,1,4,4,100,0,1,2,22/10/2019 ,1,1,31/01/2020 ,part time,co gia dinh,3,170,60,dang bi benh,khong,khong,xe may
+110,FSI_110,1,2,4,1,80,0,1,2,18/10/2019 ,2,4,06/04/2020 ,part time,chua co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+111,FSI_111,0,4,0,4,80,1,0,1,06/12/2019 ,2,0,01/12/2019 ,nghi phep,chua co gia dinh,2,175,50,dang bi benh,co,co,xe may
+112,FSI_112,3,3,2,2,90,1,0,3,09/11/2019 ,0,2,04/01/2020 ,part time,co gia dinh,0,170,50,dang bi benh,co,co,xe may
+113,FSI_113,4,0,2,0,90,2,2,1,19/03/2020 ,3,3,04/03/2020 ,part time,co gia dinh,1,150,40,khong bi benh,co,co,xe may
+114,FSI_114,1,0,1,2,80,3,0,3,04/11/2019 ,4,5,07/12/2019 ,full time,chua co gia dinh,0,180,50,dang bi benh,khong,khong,bus
+115,FSI_115,1,4,0,1,70,5,0,1,21/02/2020 ,1,0,08/11/2019 ,full time,chua co gia dinh,0,150,50,khong bi benh,co,co,xe may
+116,FSI_116,1,5,2,0,100,3,1,2,28/06/2020 ,4,4,12/11/2019 ,full time,chua co gia dinh,0,175,70,khong bi benh,khong,khong,xe may
+117,FSI_117,0,4,1,1,70,0,1,2,31/08/2020 ,1,1,08/03/2020 ,full time,co gia dinh,1,150,50,dang bi benh,co,co,xe may
+118,FSI_118,2,3,0,4,100,5,2,1,06/03/2020 ,1,1,17/08/2020 ,full time,chua co gia dinh,2,175,70,dang bi benh,co,co,xe may
+119,FSI_119,1,0,0,4,70,0,2,1,29/07/2020 ,2,1,09/10/2019 ,nghi phep,chua co gia dinh,1,160,70,khong bi benh,co,co,bus
+120,FSI_120,0,1,5,1,90,0,1,2,27/10/2019 ,5,3,15/03/2020 ,full time,co gia dinh,0,180,70,khong bi benh,co,khong,bus
+121,FSI_121,0,4,3,0,70,5,4,2,25/01/2020 ,0,0,01/07/2020 ,full time,co gia dinh,0,165,70,khong bi benh,khong,co,xe may
+122,FSI_122,2,0,0,0,70,5,3,1,31/07/2020 ,4,2,07/02/2020 ,nghi phep,chua co gia dinh,3,180,40,dang bi benh,khong,khong,xe may
+123,FSI_123,4,0,0,5,80,2,2,2,01/07/2020 ,0,2,13/07/2020 ,full time,co gia dinh,2,160,40,dang bi benh,co,khong,bus
+124,FSI_124,5,2,0,2,90,5,1,1,27/10/2019 ,2,0,26/02/2020 ,nghi phep,chua co gia dinh,0,170,40,dang bi benh,khong,co,bus
+125,FSI_125,0,4,3,2,80,5,4,1,24/02/2020 ,4,0,11/03/2020 ,nghi phep,co gia dinh,2,150,40,dang bi benh,co,khong,xe may
+126,FSI_126,5,1,3,2,70,2,4,1,11/10/2019 ,1,0,27/01/2020 ,nghi phep,chua co gia dinh,1,180,70,dang bi benh,co,co,oto
+127,FSI_127,5,0,2,2,90,5,1,2,23/03/2020 ,3,2,07/08/2020 ,full time,co gia dinh,2,150,70,khong bi benh,khong,co,bus
+128,FSI_128,0,5,3,3,100,3,4,1,12/03/2020 ,3,2,10/02/2020 ,nghi phep,co gia dinh,1,150,70,khong bi benh,khong,co,xe may
+129,FSI_129,3,1,0,0,90,0,0,3,29/01/2020 ,1,0,15/07/2020 ,nghi phep,chua co gia dinh,2,175,70,dang bi benh,co,co,xe may
+130,FSI_130,1,2,0,0,90,1,0,2,05/04/2020 ,0,1,31/05/2020 ,nghi phep,co gia dinh,1,180,60,khong bi benh,co,co,oto
+131,FSI_131,1,0,1,0,70,0,0,2,14/04/2020 ,2,2,11/10/2019 ,full time,co gia dinh,1,160,60,khong bi benh,khong,khong,oto
+132,FSI_132,0,0,0,0,100,0,3,1,19/10/2019 ,3,4,27/03/2020 ,nghi phep,co gia dinh,0,160,70,khong bi benh,khong,co,bus
+133,FSI_133,0,4,4,1,80,1,0,2,04/12/2019 ,4,5,03/04/2020 ,part time,chua co gia dinh,0,170,60,dang bi benh,khong,khong,xe may
+134,FSI_134,0,1,5,4,70,0,0,1,17/07/2020 ,4,4,25/09/2019 ,full time,co gia dinh,1,180,50,dang bi benh,co,co,xe may
+135,FSI_135,1,0,2,2,100,3,4,1,13/10/2019 ,0,1,07/02/2020 ,nghi phep,co gia dinh,1,180,70,khong bi benh,co,khong,xe may
+136,FSI_136,0,0,2,5,70,0,4,1,23/03/2020 ,1,4,19/04/2020 ,full time,chua co gia dinh,1,180,60,dang bi benh,co,khong,xe may
+137,FSI_137,0,1,1,3,100,5,3,1,24/02/2020 ,0,1,16/05/2020 ,full time,chua co gia dinh,1,170,50,khong bi benh,khong,khong,xe may
+138,FSI_138,1,0,1,3,70,3,2,1,28/08/2020 ,1,2,16/08/2020 ,full time,co gia dinh,2,160,70,khong bi benh,co,khong,bus
+139,FSI_139,5,5,3,2,100,2,0,1,26/09/2019 ,5,0,26/12/2019 ,full time,co gia dinh,0,165,40,khong bi benh,co,co,oto
+140,FSI_140,4,5,0,1,100,0,2,1,15/05/2020 ,3,1,26/01/2020 ,nghi phep,chua co gia dinh,0,175,70,khong bi benh,co,co,bus
+141,FSI_141,1,2,0,1,70,1,2,1,16/03/2020 ,2,0,23/06/2020 ,part time,co gia dinh,0,170,40,khong bi benh,co,khong,oto
+142,FSI_142,0,0,3,2,100,1,2,1,02/02/2020 ,0,4,02/04/2020 ,part time,co gia dinh,0,170,70,dang bi benh,co,co,xe may
+143,FSI_143,0,1,1,2,70,4,0,1,19/10/2019 ,0,1,21/03/2020 ,part time,chua co gia dinh,0,180,40,khong bi benh,khong,co,xe may
+144,FSI_144,0,0,0,2,90,0,1,1,26/11/2019 ,5,4,26/06/2020 ,nghi phep,co gia dinh,1,170,60,khong bi benh,khong,co,bus
+145,FSI_145,1,2,0,2,80,1,5,1,13/12/2019 ,1,2,27/07/2020 ,part time,chua co gia dinh,0,150,60,khong bi benh,khong,khong,xe may
+146,FSI_146,2,1,1,5,80,3,0,1,06/01/2020 ,1,4,15/04/2020 ,nghi phep,co gia dinh,3,160,40,khong bi benh,co,khong,xe may
+147,FSI_147,5,0,0,0,90,0,2,2,10/07/2020 ,5,5,26/11/2019 ,full time,co gia dinh,1,150,70,dang bi benh,co,khong,oto
+148,FSI_148,1,0,3,0,80,1,3,1,29/12/2019 ,0,3,16/04/2020 ,full time,chua co gia dinh,2,150,60,dang bi benh,khong,co,xe may
+149,FSI_149,2,5,0,4,90,1,1,2,12/06/2020 ,5,5,26/04/2020 ,full time,chua co gia dinh,1,175,50,khong bi benh,khong,co,bus
+150,FSI_150,4,3,0,0,70,4,1,1,07/11/2019 ,3,0,03/05/2020 ,full time,chua co gia dinh,1,150,40,dang bi benh,co,co,xe may
+151,FSI_151,5,0,1,3,90,0,3,1,17/12/2019 ,0,1,09/04/2020 ,nghi phep,co gia dinh,1,175,70,dang bi benh,khong,khong,oto
+152,FSI_152,4,5,5,0,100,4,2,1,02/04/2020 ,3,1,18/08/2020 ,part time,co gia dinh,0,165,70,dang bi benh,khong,khong,oto
+153,FSI_153,1,2,4,5,70,4,0,1,24/12/2019 ,0,0,21/04/2020 ,full time,co gia dinh,1,165,50,khong bi benh,khong,co,bus
+154,FSI_154,4,2,0,1,70,0,0,1,27/09/2019 ,3,4,19/02/2020 ,nghi phep,co gia dinh,2,175,60,dang bi benh,khong,co,bus
+155,FSI_155,3,0,5,4,70,1,4,2,09/12/2019 ,0,0,02/03/2020 ,part time,chua co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+156,FSI_156,1,3,2,2,80,1,0,1,04/09/2020 ,4,4,24/08/2020 ,full time,chua co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+157,FSI_157,2,1,2,0,70,3,5,1,18/08/2020 ,0,4,17/12/2019 ,nghi phep,chua co gia dinh,1,175,70,dang bi benh,khong,khong,xe may
+158,FSI_158,0,2,0,1,80,1,2,1,29/01/2020 ,0,0,09/05/2020 ,full time,co gia dinh,2,170,60,khong bi benh,co,khong,oto
+159,FSI_159,0,0,2,4,80,4,0,3,20/10/2019 ,2,0,12/08/2020 ,part time,co gia dinh,2,160,40,khong bi benh,co,co,bus
+160,FSI_160,4,2,1,0,70,0,3,1,09/11/2019 ,3,2,30/06/2020 ,part time,chua co gia dinh,1,180,50,dang bi benh,co,co,xe may
+161,FSI_161,1,5,0,4,80,0,3,1,30/12/2019 ,2,2,25/02/2020 ,full time,chua co gia dinh,0,175,50,khong bi benh,co,khong,xe may
+162,FSI_162,0,0,1,2,70,3,3,1,29/03/2020 ,4,4,05/05/2020 ,nghi phep,co gia dinh,1,160,40,khong bi benh,khong,khong,oto
+163,FSI_163,3,0,0,4,100,2,3,2,06/03/2020 ,0,2,24/11/2019 ,part time,chua co gia dinh,0,165,40,dang bi benh,khong,khong,bus
+164,FSI_164,3,0,4,0,80,2,0,2,17/01/2020 ,4,1,26/07/2020 ,nghi phep,chua co gia dinh,2,150,40,khong bi benh,khong,khong,xe may
+165,FSI_165,3,1,3,1,80,2,0,1,10/05/2020 ,0,0,19/03/2020 ,full time,co gia dinh,1,180,50,khong bi benh,co,khong,xe may
+166,FSI_166,2,4,0,2,90,1,4,1,30/08/2020 ,0,1,14/06/2020 ,nghi phep,co gia dinh,1,150,70,dang bi benh,khong,khong,xe may
+167,FSI_167,5,5,0,4,80,2,0,1,09/04/2020 ,0,4,12/04/2020 ,part time,co gia dinh,1,160,40,khong bi benh,khong,khong,xe may
+168,FSI_168,2,1,1,1,80,2,4,1,16/06/2020 ,1,1,05/08/2020 ,part time,co gia dinh,2,165,60,dang bi benh,khong,co,bus
+169,FSI_169,3,0,3,5,70,2,3,1,07/04/2020 ,3,4,26/09/2019 ,nghi phep,co gia dinh,1,170,60,dang bi benh,co,khong,bus
+170,FSI_170,4,0,0,1,70,5,0,1,10/05/2020 ,1,5,05/02/2020 ,nghi phep,co gia dinh,1,150,70,dang bi benh,co,khong,oto
+171,FSI_171,4,5,4,1,70,5,0,1,05/02/2020 ,0,2,20/09/2019 ,full time,chua co gia dinh,1,170,60,dang bi benh,co,co,oto
+172,FSI_172,5,0,2,3,100,1,5,1,14/12/2019 ,2,4,05/08/2020 ,full time,chua co gia dinh,2,175,60,khong bi benh,co,co,xe may
+173,FSI_173,3,0,4,2,80,0,1,1,26/12/2019 ,1,2,18/05/2020 ,part time,co gia dinh,0,150,40,dang bi benh,khong,khong,bus
+174,FSI_174,1,5,3,4,70,1,0,1,14/05/2020 ,0,5,02/12/2019 ,full time,co gia dinh,2,180,70,khong bi benh,co,co,xe may
+175,FSI_175,5,5,2,3,90,4,0,1,08/05/2020 ,0,0,15/01/2020 ,nghi phep,chua co gia dinh,0,170,60,dang bi benh,khong,khong,oto
+176,FSI_176,0,2,5,4,80,5,0,3,22/07/2020 ,5,2,10/08/2020 ,nghi phep,chua co gia dinh,3,160,50,dang bi benh,khong,co,xe may
+177,FSI_177,3,5,2,2,80,0,1,2,19/03/2020 ,4,3,03/07/2020 ,nghi phep,chua co gia dinh,1,165,50,dang bi benh,co,khong,oto
+178,FSI_178,0,0,5,5,70,2,5,1,18/01/2020 ,0,5,10/09/2019 ,nghi phep,co gia dinh,1,175,70,khong bi benh,co,co,bus
+179,FSI_179,0,1,0,5,70,0,3,3,09/05/2020 ,4,0,03/12/2019 ,full time,chua co gia dinh,1,165,70,dang bi benh,co,khong,bus
+180,FSI_180,2,0,0,0,100,4,1,1,29/08/2020 ,0,0,28/04/2020 ,nghi phep,co gia dinh,2,165,70,dang bi benh,khong,khong,xe may
+181,FSI_181,2,2,5,0,100,2,4,1,11/10/2019 ,3,2,19/06/2020 ,part time,chua co gia dinh,0,160,50,khong bi benh,khong,co,bus
+182,FSI_182,4,1,4,1,80,0,2,1,11/03/2020 ,4,4,08/01/2020 ,full time,co gia dinh,1,180,50,khong bi benh,khong,khong,oto
+183,FSI_183,5,4,0,0,90,4,0,1,15/02/2020 ,0,0,26/12/2019 ,nghi phep,chua co gia dinh,1,180,70,dang bi benh,khong,co,xe may
+184,FSI_184,1,3,1,4,100,0,5,1,04/09/2020 ,3,2,23/11/2019 ,part time,co gia dinh,0,170,50,dang bi benh,khong,khong,xe may
+185,FSI_185,4,4,5,0,100,0,0,1,01/08/2020 ,4,5,20/09/2019 ,full time,chua co gia dinh,0,175,60,khong bi benh,co,khong,xe may
+186,FSI_186,1,1,4,5,80,4,2,2,09/10/2019 ,1,4,05/09/2020 ,part time,chua co gia dinh,0,180,50,khong bi benh,khong,khong,xe may
+187,FSI_187,2,0,1,3,80,0,0,1,14/10/2019 ,0,2,06/04/2020 ,nghi phep,chua co gia dinh,0,180,60,khong bi benh,co,khong,xe may
+188,FSI_188,0,0,0,2,70,1,2,1,24/11/2019 ,4,0,20/07/2020 ,nghi phep,chua co gia dinh,2,180,60,khong bi benh,khong,khong,xe may
+189,FSI_189,4,2,1,0,90,0,0,1,18/08/2020 ,1,4,28/04/2020 ,nghi phep,chua co gia dinh,1,165,70,dang bi benh,khong,co,xe may
+190,FSI_190,3,0,0,3,70,4,1,2,21/11/2019 ,0,1,26/04/2020 ,full time,co gia dinh,2,165,70,khong bi benh,khong,khong,xe may
+191,FSI_191,1,4,1,2,70,0,4,1,18/02/2020 ,0,5,30/03/2020 ,full time,chua co gia dinh,1,175,40,khong bi benh,khong,khong,oto
+192,FSI_192,2,4,1,3,80,1,1,1,27/05/2020 ,2,4,23/07/2020 ,nghi phep,co gia dinh,1,150,50,khong bi benh,co,co,bus
+193,FSI_193,0,1,4,0,80,3,5,2,06/12/2019 ,0,3,09/09/2019 ,full time,co gia dinh,2,160,50,khong bi benh,co,khong,bus
+194,FSI_194,2,3,1,0,90,0,1,2,09/12/2019 ,5,5,07/05/2020 ,full time,chua co gia dinh,1,170,40,dang bi benh,khong,co,oto
+195,FSI_195,1,2,4,4,70,5,0,1,17/09/2019 ,5,4,05/05/2020 ,full time,chua co gia dinh,2,165,50,dang bi benh,khong,co,xe may
+196,FSI_196,3,2,1,4,80,0,2,3,16/07/2020 ,3,4,13/12/2019 ,full time,co gia dinh,2,165,50,dang bi benh,khong,co,xe may
+197,FSI_197,3,5,1,5,100,1,4,1,19/02/2020 ,4,2,16/03/2020 ,part time,chua co gia dinh,1,160,50,dang bi benh,co,co,xe may
+198,FSI_198,0,0,1,5,80,0,2,1,23/02/2020 ,5,4,23/09/2019 ,nghi phep,co gia dinh,2,150,70,dang bi benh,co,co,bus
+199,FSI_199,0,0,1,2,80,0,0,1,08/11/2019 ,0,0,17/06/2020 ,part time,co gia dinh,1,150,60,dang bi benh,khong,khong,xe may
+200,FSI_200,4,0,3,4,80,0,1,1,21/04/2020 ,4,0,18/03/2020 ,nghi phep,co gia dinh,1,170,60,dang bi benh,co,co,oto
+201,FSI_201,1,0,0,1,100,1,4,1,05/10/2019 ,4,5,30/03/2020 ,full time,co gia dinh,0,150,40,khong bi benh,khong,co,oto
+202,FSI_202,2,3,5,2,80,1,3,2,12/04/2020 ,5,2,18/05/2020 ,nghi phep,co gia dinh,1,180,40,khong bi benh,co,co,xe may
+203,FSI_203,0,4,0,0,100,1,0,1,10/10/2019 ,0,1,28/06/2020 ,nghi phep,co gia dinh,0,160,40,khong bi benh,khong,co,xe may
+204,FSI_204,3,0,0,2,100,0,4,3,13/09/2019 ,0,4,29/12/2019 ,nghi phep,co gia dinh,2,180,70,khong bi benh,khong,khong,xe may
+205,FSI_205,4,5,2,1,90,0,4,3,08/03/2020 ,5,2,18/03/2020 ,nghi phep,chua co gia dinh,2,180,50,khong bi benh,co,co,bus
+206,FSI_206,3,1,5,0,70,2,4,2,07/08/2020 ,0,3,27/11/2019 ,part time,co gia dinh,1,165,60,khong bi benh,khong,khong,bus
+207,FSI_207,0,5,5,1,100,3,1,2,26/04/2020 ,4,5,05/08/2020 ,full time,chua co gia dinh,1,170,70,dang bi benh,co,co,bus
+208,FSI_208,0,5,0,4,90,1,0,1,25/06/2020 ,0,0,12/03/2020 ,nghi phep,chua co gia dinh,2,150,40,khong bi benh,khong,khong,xe may
+209,FSI_209,2,0,3,1,90,1,0,1,20/01/2020 ,2,0,29/06/2020 ,part time,co gia dinh,1,170,40,dang bi benh,co,khong,xe may
+210,FSI_210,3,2,3,2,90,2,1,1,26/04/2020 ,5,3,07/08/2020 ,part time,chua co gia dinh,1,170,50,dang bi benh,co,co,xe may
+211,FSI_211,5,3,1,0,100,0,1,2,19/01/2020 ,1,4,21/01/2020 ,nghi phep,chua co gia dinh,1,170,60,dang bi benh,co,khong,bus
+212,FSI_212,0,5,0,3,90,2,1,1,04/10/2019 ,1,3,13/01/2020 ,part time,chua co gia dinh,0,160,70,khong bi benh,co,co,xe may
+213,FSI_213,5,2,4,4,100,5,0,1,17/11/2019 ,0,5,17/03/2020 ,part time,chua co gia dinh,0,175,50,khong bi benh,co,co,oto
+214,FSI_214,4,0,5,5,90,4,2,2,03/06/2020 ,4,1,13/10/2019 ,part time,chua co gia dinh,0,170,50,khong bi benh,co,co,bus
+215,FSI_215,2,4,0,0,90,2,3,2,17/11/2019 ,0,1,13/08/2020 ,full time,co gia dinh,2,160,50,dang bi benh,khong,co,xe may
+216,FSI_216,3,1,0,5,90,1,0,1,18/07/2020 ,0,2,07/05/2020 ,nghi phep,chua co gia dinh,3,170,40,dang bi benh,khong,khong,oto
+217,FSI_217,2,2,0,0,100,1,1,2,05/11/2019 ,2,1,17/12/2019 ,nghi phep,chua co gia dinh,0,160,50,khong bi benh,khong,khong,xe may
+218,FSI_218,2,3,5,2,90,0,0,1,24/10/2019 ,3,0,18/02/2020 ,nghi phep,co gia dinh,1,160,60,khong bi benh,khong,co,xe may
+219,FSI_219,1,1,0,2,70,0,0,2,29/10/2019 ,4,5,02/11/2019 ,full time,chua co gia dinh,2,160,50,dang bi benh,khong,khong,xe may
+220,FSI_220,2,5,3,4,90,0,0,2,22/05/2020 ,1,3,29/01/2020 ,part time,chua co gia dinh,1,165,40,dang bi benh,co,khong,bus
+221,FSI_221,0,0,2,1,70,0,5,2,06/02/2020 ,0,1,04/02/2020 ,full time,co gia dinh,0,170,70,dang bi benh,co,khong,bus
+222,FSI_222,1,4,2,5,80,1,0,1,16/11/2019 ,4,3,16/10/2019 ,nghi phep,chua co gia dinh,0,180,50,dang bi benh,khong,co,xe may
+223,FSI_223,0,1,2,3,80,5,2,1,09/05/2020 ,3,0,28/11/2019 ,nghi phep,co gia dinh,2,165,50,dang bi benh,khong,khong,xe may
+224,FSI_224,0,2,5,2,80,2,4,2,25/04/2020 ,1,4,27/11/2019 ,part time,co gia dinh,2,180,50,dang bi benh,khong,khong,bus
+225,FSI_225,1,2,0,0,100,4,5,1,16/12/2019 ,2,0,14/02/2020 ,nghi phep,co gia dinh,1,160,60,khong bi benh,khong,khong,xe may
+226,FSI_226,4,2,3,4,70,5,5,1,15/01/2020 ,0,5,31/07/2020 ,nghi phep,co gia dinh,2,165,70,khong bi benh,co,co,oto
+227,FSI_227,2,2,3,5,100,0,1,1,15/05/2020 ,1,1,30/04/2020 ,nghi phep,chua co gia dinh,2,170,70,dang bi benh,co,khong,xe may
+228,FSI_228,1,5,0,1,90,5,1,1,27/03/2020 ,2,3,05/05/2020 ,part time,co gia dinh,3,175,40,dang bi benh,khong,co,xe may
+229,FSI_229,0,1,0,2,70,2,5,2,05/07/2020 ,2,4,08/11/2019 ,full time,co gia dinh,1,180,70,dang bi benh,khong,khong,xe may
+230,FSI_230,2,1,1,2,90,2,0,2,12/04/2020 ,2,1,14/12/2019 ,nghi phep,chua co gia dinh,2,170,70,khong bi benh,co,co,xe may
+231,FSI_231,1,1,2,3,90,5,0,1,02/06/2020 ,4,1,03/12/2019 ,part time,chua co gia dinh,2,150,60,khong bi benh,co,co,bus
+232,FSI_232,0,1,5,0,80,0,4,1,19/10/2019 ,4,3,10/09/2019 ,part time,chua co gia dinh,1,160,40,khong bi benh,khong,co,xe may
+233,FSI_233,4,2,5,1,100,2,3,2,11/06/2020 ,0,4,29/02/2020 ,part time,co gia dinh,2,170,70,dang bi benh,khong,co,bus
+234,FSI_234,2,0,2,3,90,4,0,1,01/08/2020 ,2,2,05/05/2020 ,full time,co gia dinh,1,165,40,khong bi benh,khong,khong,xe may
+235,FSI_235,0,2,1,1,70,1,0,1,10/07/2020 ,0,0,15/03/2020 ,part time,chua co gia dinh,0,180,40,dang bi benh,khong,khong,oto
+236,FSI_236,1,4,1,0,80,0,1,1,12/07/2020 ,0,0,29/01/2020 ,nghi phep,co gia dinh,1,175,50,dang bi benh,khong,co,oto
+237,FSI_237,0,1,0,0,90,3,0,1,30/04/2020 ,1,1,23/06/2020 ,full time,co gia dinh,1,150,60,dang bi benh,khong,khong,bus
+238,FSI_238,1,3,3,4,100,2,1,2,01/03/2020 ,0,0,30/08/2020 ,nghi phep,chua co gia dinh,1,170,40,dang bi benh,khong,khong,bus
+239,FSI_239,5,3,5,0,80,0,3,2,16/12/2019 ,0,2,14/10/2019 ,nghi phep,co gia dinh,0,175,50,khong bi benh,co,khong,xe may
+240,FSI_240,0,3,0,1,70,1,2,3,17/04/2020 ,4,0,28/08/2020 ,full time,chua co gia dinh,1,150,70,dang bi benh,co,co,xe may
+241,FSI_241,5,2,0,1,90,0,1,1,09/05/2020 ,0,2,18/04/2020 ,full time,co gia dinh,3,175,70,dang bi benh,khong,co,xe may
+242,FSI_242,5,2,1,0,100,3,3,1,29/02/2020 ,1,1,14/12/2019 ,part time,chua co gia dinh,3,175,40,dang bi benh,co,khong,oto
+243,FSI_243,1,1,1,2,100,1,1,3,01/04/2020 ,1,1,31/01/2020 ,nghi phep,co gia dinh,1,180,60,khong bi benh,co,co,xe may
+244,FSI_244,1,1,2,5,90,1,5,2,31/10/2019 ,3,3,13/06/2020 ,nghi phep,chua co gia dinh,1,170,50,khong bi benh,khong,khong,bus
+245,FSI_245,1,0,4,0,100,1,1,3,23/10/2019 ,5,0,04/03/2020 ,nghi phep,chua co gia dinh,1,165,50,khong bi benh,khong,khong,bus
+246,FSI_246,1,0,0,5,70,0,1,1,09/10/2019 ,0,4,14/10/2019 ,part time,co gia dinh,1,150,40,dang bi benh,co,co,xe may
+247,FSI_247,2,2,4,1,100,3,4,3,28/07/2020 ,1,0,14/09/2019 ,full time,co gia dinh,2,165,40,dang bi benh,khong,co,bus
+248,FSI_248,0,0,1,2,70,0,1,3,19/01/2020 ,1,5,19/07/2020 ,nghi phep,co gia dinh,1,150,60,khong bi benh,co,khong,xe may
+249,FSI_249,0,0,1,2,80,4,2,1,19/05/2020 ,0,0,18/09/2019 ,full time,chua co gia dinh,2,150,60,dang bi benh,co,co,bus
+250,FSI_250,5,3,2,5,80,0,2,3,29/04/2020 ,0,0,26/06/2020 ,full time,chua co gia dinh,0,170,70,dang bi benh,khong,khong,oto
+251,FSI_251,0,0,1,3,90,5,4,1,09/07/2020 ,0,2,02/07/2020 ,nghi phep,chua co gia dinh,1,170,50,dang bi benh,khong,khong,xe may
+252,FSI_252,1,3,3,0,80,0,1,2,13/12/2019 ,2,2,10/04/2020 ,nghi phep,co gia dinh,0,180,50,dang bi benh,co,co,bus
+253,FSI_253,5,1,0,0,100,2,0,1,01/10/2019 ,0,0,22/03/2020 ,nghi phep,chua co gia dinh,2,175,40,dang bi benh,khong,khong,oto
+254,FSI_254,2,1,2,2,100,2,3,2,31/01/2020 ,2,1,01/04/2020 ,nghi phep,co gia dinh,2,160,50,dang bi benh,co,khong,xe may
+255,FSI_255,5,0,5,3,90,0,0,2,24/08/2020 ,1,0,11/04/2020 ,full time,chua co gia dinh,1,165,50,dang bi benh,co,co,xe may
+256,FSI_256,5,4,5,2,90,0,2,3,18/08/2020 ,4,2,28/04/2020 ,nghi phep,co gia dinh,1,175,70,dang bi benh,khong,co,xe may
+257,FSI_257,0,0,3,4,90,5,0,1,03/07/2020 ,1,0,22/05/2020 ,part time,co gia dinh,0,150,40,dang bi benh,co,co,bus
+258,FSI_258,4,1,2,2,80,3,2,1,16/10/2019 ,1,2,03/07/2020 ,full time,co gia dinh,2,165,50,khong bi benh,khong,khong,bus
+259,FSI_259,0,0,4,0,100,2,3,1,26/11/2019 ,3,0,10/02/2020 ,nghi phep,chua co gia dinh,1,150,60,khong bi benh,khong,khong,oto
+260,FSI_260,0,1,2,4,100,4,2,1,26/09/2019 ,2,0,12/04/2020 ,nghi phep,chua co gia dinh,0,180,40,khong bi benh,co,khong,xe may
+261,FSI_261,2,2,0,1,80,1,5,3,15/11/2019 ,0,5,04/12/2019 ,nghi phep,chua co gia dinh,2,150,50,khong bi benh,co,khong,xe may
+262,FSI_262,3,0,5,0,90,0,0,2,26/10/2019 ,1,1,08/04/2020 ,part time,co gia dinh,1,150,40,dang bi benh,co,co,oto
+263,FSI_263,5,0,1,0,70,0,0,3,21/11/2019 ,1,0,08/07/2020 ,part time,chua co gia dinh,0,180,40,khong bi benh,khong,khong,xe may
+264,FSI_264,4,3,5,2,70,2,0,2,28/06/2020 ,3,0,27/06/2020 ,nghi phep,chua co gia dinh,0,150,40,khong bi benh,co,khong,xe may
+265,FSI_265,1,1,0,1,90,5,1,1,29/11/2019 ,2,1,28/01/2020 ,nghi phep,co gia dinh,1,150,60,dang bi benh,co,khong,oto
+266,FSI_266,4,4,4,2,70,4,1,1,25/07/2020 ,2,0,09/04/2020 ,nghi phep,co gia dinh,0,170,40,khong bi benh,co,khong,bus
+267,FSI_267,2,2,0,3,70,2,5,1,18/02/2020 ,4,1,28/02/2020 ,nghi phep,chua co gia dinh,1,165,40,khong bi benh,khong,khong,xe may
+268,FSI_268,2,2,2,4,70,5,0,1,15/09/2019 ,1,1,14/03/2020 ,part time,chua co gia dinh,1,175,60,khong bi benh,co,co,oto
+269,FSI_269,4,0,5,4,90,0,5,3,22/07/2020 ,2,2,05/12/2019 ,full time,co gia dinh,2,160,70,khong bi benh,khong,co,bus
+270,FSI_270,5,2,2,2,100,0,0,2,21/08/2020 ,5,1,14/05/2020 ,nghi phep,co gia dinh,1,150,70,dang bi benh,co,co,xe may
+271,FSI_271,5,1,0,1,80,5,3,2,04/07/2020 ,2,0,12/02/2020 ,part time,co gia dinh,3,165,50,dang bi benh,co,co,bus
+272,FSI_272,1,5,4,0,100,0,5,1,08/05/2020 ,5,0,26/12/2019 ,full time,co gia dinh,2,175,70,dang bi benh,co,co,bus
+273,FSI_273,3,1,0,4,80,2,5,3,19/03/2020 ,0,0,28/12/2019 ,full time,co gia dinh,2,170,50,dang bi benh,khong,co,xe may
+274,FSI_274,4,2,0,4,70,0,0,2,09/12/2019 ,0,2,03/04/2020 ,part time,co gia dinh,2,150,70,khong bi benh,co,co,oto
+275,FSI_275,0,3,0,1,100,3,0,1,23/04/2020 ,1,1,20/03/2020 ,full time,chua co gia dinh,2,175,70,khong bi benh,khong,co,bus
+276,FSI_276,0,1,5,0,100,5,0,2,21/07/2020 ,0,1,13/01/2020 ,full time,co gia dinh,0,175,40,khong bi benh,khong,khong,bus
+277,FSI_277,2,5,0,4,100,5,0,1,11/07/2020 ,0,0,12/08/2020 ,part time,chua co gia dinh,2,175,70,khong bi benh,co,co,bus
+278,FSI_278,0,3,5,0,80,2,5,1,05/10/2019 ,2,1,02/12/2019 ,full time,co gia dinh,0,160,50,dang bi benh,co,co,xe may
+279,FSI_279,2,4,1,4,70,1,2,1,25/05/2020 ,3,2,18/05/2020 ,part time,co gia dinh,1,165,60,dang bi benh,co,khong,xe may
+280,FSI_280,4,4,3,0,100,0,0,1,16/07/2020 ,1,5,29/06/2020 ,part time,co gia dinh,0,170,70,khong bi benh,co,khong,oto
+281,FSI_281,1,3,3,5,90,5,2,2,22/10/2019 ,2,1,24/11/2019 ,nghi phep,chua co gia dinh,1,160,70,khong bi benh,khong,khong,bus
+282,FSI_282,2,1,2,3,90,0,0,1,31/03/2020 ,4,1,25/04/2020 ,part time,co gia dinh,0,180,50,khong bi benh,co,co,xe may
+283,FSI_283,2,3,5,3,90,2,1,1,21/09/2019 ,1,3,12/11/2019 ,nghi phep,co gia dinh,2,165,50,khong bi benh,khong,co,bus
+284,FSI_284,5,4,1,1,100,0,0,1,05/06/2020 ,3,1,13/11/2019 ,part time,chua co gia dinh,1,180,70,dang bi benh,co,khong,xe may
+285,FSI_285,5,1,5,1,100,2,0,1,08/03/2020 ,3,1,17/04/2020 ,full time,chua co gia dinh,0,170,70,khong bi benh,khong,co,oto
+286,FSI_286,0,4,0,0,90,0,1,1,21/05/2020 ,0,0,14/08/2020 ,nghi phep,chua co gia dinh,1,170,60,dang bi benh,khong,khong,xe may
+287,FSI_287,3,0,0,4,90,4,1,1,23/11/2019 ,0,0,25/05/2020 ,nghi phep,chua co gia dinh,1,160,60,dang bi benh,khong,co,xe may
+288,FSI_288,0,0,2,0,100,1,0,1,03/02/2020 ,5,5,11/07/2020 ,nghi phep,co gia dinh,1,165,70,khong bi benh,khong,co,oto
+289,FSI_289,1,4,0,3,80,2,0,2,29/02/2020 ,4,0,27/01/2020 ,part time,chua co gia dinh,1,160,60,dang bi benh,co,co,bus
+290,FSI_290,5,5,0,0,70,0,4,3,17/01/2020 ,5,1,25/05/2020 ,part time,chua co gia dinh,1,180,60,khong bi benh,khong,khong,xe may
+291,FSI_291,3,1,1,3,70,0,1,1,24/08/2020 ,1,0,09/09/2019 ,part time,chua co gia dinh,0,175,40,dang bi benh,co,co,xe may
+292,FSI_292,2,0,5,5,100,1,2,1,13/10/2019 ,2,0,15/05/2020 ,part time,co gia dinh,3,175,60,khong bi benh,khong,co,bus
+293,FSI_293,1,2,0,1,70,3,5,2,13/07/2020 ,1,2,24/05/2020 ,full time,chua co gia dinh,2,180,70,dang bi benh,co,khong,xe may
+294,FSI_294,2,0,1,2,80,0,1,2,13/08/2020 ,0,0,29/01/2020 ,full time,chua co gia dinh,1,165,50,khong bi benh,co,khong,oto
+295,FSI_295,0,5,0,0,100,0,0,1,19/02/2020 ,1,0,26/08/2020 ,part time,chua co gia dinh,2,170,60,khong bi benh,co,co,xe may
+296,FSI_296,2,3,4,4,100,0,1,1,31/01/2020 ,4,4,19/08/2020 ,full time,co gia dinh,2,170,70,khong bi benh,khong,khong,xe may
+297,FSI_297,5,2,0,4,80,1,4,2,29/09/2019 ,1,0,27/03/2020 ,part time,chua co gia dinh,0,170,50,khong bi benh,khong,khong,xe may
+298,FSI_298,1,2,2,3,90,3,4,3,17/07/2020 ,1,0,13/09/2019 ,nghi phep,co gia dinh,3,160,50,khong bi benh,khong,co,xe may
+299,FSI_299,4,3,1,1,80,5,2,3,10/01/2020 ,2,1,02/12/2019 ,nghi phep,co gia dinh,0,150,40,dang bi benh,khong,khong,xe may
+300,FSI_300,0,5,0,3,80,2,2,1,21/03/2020 ,0,1,08/04/2020 ,part time,co gia dinh,2,150,70,dang bi benh,khong,co,xe may
+301,FSI_301,0,3,1,1,70,3,0,1,26/02/2020 ,0,3,16/12/2019 ,full time,chua co gia dinh,1,160,50,dang bi benh,khong,khong,bus
+302,FSI_302,0,2,4,2,90,3,0,1,02/09/2020 ,4,1,09/11/2019 ,nghi phep,co gia dinh,2,165,50,khong bi benh,co,co,bus
+303,FSI_303,1,5,2,0,80,2,1,1,18/08/2020 ,3,0,21/01/2020 ,nghi phep,chua co gia dinh,2,170,40,khong bi benh,co,khong,oto
+304,FSI_304,3,0,3,3,80,2,2,1,20/02/2020 ,1,1,12/09/2019 ,nghi phep,chua co gia dinh,0,165,60,dang bi benh,co,khong,bus
+305,FSI_305,3,3,0,0,80,0,0,2,07/04/2020 ,2,5,15/04/2020 ,nghi phep,co gia dinh,1,175,50,dang bi benh,khong,khong,xe may
+306,FSI_306,1,3,4,1,70,0,0,1,20/07/2020 ,5,0,24/04/2020 ,part time,co gia dinh,2,160,40,dang bi benh,co,khong,xe may
+307,FSI_307,1,1,2,5,90,4,0,1,08/02/2020 ,1,3,27/07/2020 ,part time,co gia dinh,0,180,60,khong bi benh,co,co,xe may
+308,FSI_308,4,0,4,1,80,1,0,1,16/09/2019 ,3,2,27/08/2020 ,nghi phep,co gia dinh,1,150,70,khong bi benh,khong,khong,xe may
+309,FSI_309,3,0,5,0,70,2,4,3,13/07/2020 ,1,4,06/08/2020 ,full time,co gia dinh,0,160,60,khong bi benh,co,khong,xe may
+310,FSI_310,2,0,4,2,70,3,0,2,08/07/2020 ,1,4,15/03/2020 ,full time,chua co gia dinh,0,180,50,dang bi benh,khong,khong,xe may
+311,FSI_311,0,0,1,0,80,3,2,1,06/06/2020 ,2,1,08/05/2020 ,part time,co gia dinh,2,165,70,khong bi benh,khong,co,xe may
+312,FSI_312,1,0,0,3,100,2,5,3,25/07/2020 ,2,1,18/12/2019 ,nghi phep,chua co gia dinh,2,175,70,dang bi benh,khong,co,xe may
+313,FSI_313,4,5,0,0,80,0,2,2,21/04/2020 ,4,1,11/03/2020 ,part time,chua co gia dinh,0,165,70,dang bi benh,co,co,bus
+314,FSI_314,2,2,3,0,90,2,0,1,15/03/2020 ,0,2,18/09/2019 ,part time,co gia dinh,2,175,50,dang bi benh,co,khong,xe may
+315,FSI_315,2,1,0,0,80,5,3,3,18/09/2019 ,5,5,02/03/2020 ,nghi phep,chua co gia dinh,1,170,70,dang bi benh,co,co,xe may
+316,FSI_316,0,2,2,0,70,0,4,1,03/01/2020 ,4,1,17/04/2020 ,full time,co gia dinh,2,180,40,dang bi benh,khong,khong,bus
+317,FSI_317,4,1,2,2,70,2,1,1,18/11/2019 ,0,2,05/12/2019 ,part time,co gia dinh,1,150,40,khong bi benh,khong,khong,xe may
+318,FSI_318,5,0,1,1,80,0,2,3,23/12/2019 ,3,5,13/09/2019 ,nghi phep,co gia dinh,0,160,60,dang bi benh,co,khong,xe may
+319,FSI_319,0,2,2,4,100,3,1,1,29/02/2020 ,0,0,04/06/2020 ,full time,chua co gia dinh,1,165,50,dang bi benh,co,khong,bus
+320,FSI_320,0,4,0,4,100,2,2,1,24/10/2019 ,4,1,13/12/2019 ,part time,co gia dinh,2,180,40,khong bi benh,co,khong,bus
+321,FSI_321,0,5,1,4,90,0,5,1,15/08/2020 ,0,0,29/02/2020 ,full time,chua co gia dinh,1,180,60,khong bi benh,co,khong,xe may
+322,FSI_322,4,5,5,3,70,1,4,2,06/06/2020 ,0,0,01/06/2020 ,full time,chua co gia dinh,2,170,50,dang bi benh,co,khong,bus
+323,FSI_323,1,1,1,2,90,1,1,1,26/06/2020 ,0,2,21/06/2020 ,nghi phep,chua co gia dinh,0,165,40,khong bi benh,co,khong,xe may
+324,FSI_324,2,0,1,0,70,4,2,1,21/12/2019 ,5,5,13/02/2020 ,nghi phep,co gia dinh,2,175,50,dang bi benh,co,co,bus
+325,FSI_325,1,2,0,0,100,0,5,1,13/05/2020 ,2,5,21/11/2019 ,full time,chua co gia dinh,0,175,50,khong bi benh,khong,khong,xe may
+326,FSI_326,5,3,3,4,100,0,0,2,04/07/2020 ,5,0,05/07/2020 ,nghi phep,co gia dinh,2,170,40,khong bi benh,co,khong,xe may
+327,FSI_327,2,1,4,2,90,2,5,1,18/09/2019 ,4,0,25/07/2020 ,part time,co gia dinh,2,165,70,khong bi benh,co,co,xe may
+328,FSI_328,4,0,1,0,80,1,1,1,22/11/2019 ,5,2,18/04/2020 ,full time,co gia dinh,1,175,40,dang bi benh,khong,khong,bus
+329,FSI_329,3,1,0,5,70,0,0,3,04/10/2019 ,3,0,13/07/2020 ,full time,co gia dinh,3,175,40,khong bi benh,khong,khong,bus
+330,FSI_330,0,4,2,2,100,1,3,2,02/01/2020 ,2,0,05/03/2020 ,nghi phep,co gia dinh,2,165,60,dang bi benh,khong,co,xe may
+331,FSI_331,1,2,1,0,70,3,1,1,08/11/2019 ,4,0,06/12/2019 ,full time,chua co gia dinh,1,175,60,dang bi benh,khong,khong,xe may
+332,FSI_332,0,4,4,1,90,4,0,1,07/11/2019 ,2,0,17/09/2019 ,full time,co gia dinh,0,165,70,dang bi benh,khong,co,oto
+333,FSI_333,2,0,2,4,90,3,4,1,14/07/2020 ,1,5,03/10/2019 ,part time,chua co gia dinh,3,175,60,dang bi benh,co,khong,xe may
+334,FSI_334,3,2,2,0,90,0,2,1,25/04/2020 ,1,0,06/12/2019 ,nghi phep,co gia dinh,0,175,40,dang bi benh,co,co,bus
+335,FSI_335,5,2,4,4,70,5,0,1,15/10/2019 ,5,1,30/03/2020 ,part time,chua co gia dinh,2,150,70,dang bi benh,khong,khong,oto
+336,FSI_336,0,0,2,5,90,2,1,1,21/01/2020 ,2,5,15/01/2020 ,part time,co gia dinh,0,180,50,dang bi benh,co,khong,xe may
+337,FSI_337,0,3,1,1,90,5,5,3,27/08/2020 ,5,2,11/02/2020 ,part time,chua co gia dinh,2,170,60,khong bi benh,co,khong,bus
+338,FSI_338,1,2,0,5,70,2,2,1,22/07/2020 ,2,3,16/08/2020 ,full time,co gia dinh,0,160,50,dang bi benh,co,khong,bus
+339,FSI_339,2,0,2,2,90,1,0,1,06/06/2020 ,3,0,19/06/2020 ,full time,chua co gia dinh,1,150,70,khong bi benh,khong,co,xe may
+340,FSI_340,4,4,2,3,80,0,0,1,08/11/2019 ,3,0,20/02/2020 ,nghi phep,chua co gia dinh,1,170,70,khong bi benh,co,khong,oto
+341,FSI_341,0,2,5,2,100,0,0,1,24/05/2020 ,4,4,19/04/2020 ,nghi phep,co gia dinh,0,170,70,dang bi benh,co,co,xe may
+342,FSI_342,1,3,0,0,90,3,4,2,29/04/2020 ,1,4,19/12/2019 ,nghi phep,chua co gia dinh,2,150,60,dang bi benh,co,co,xe may
+343,FSI_343,1,4,5,1,80,2,4,1,23/01/2020 ,0,2,07/07/2020 ,full time,chua co gia dinh,0,160,40,dang bi benh,co,khong,bus
+344,FSI_344,0,5,2,5,70,0,0,1,14/01/2020 ,2,2,22/09/2019 ,nghi phep,chua co gia dinh,1,150,60,dang bi benh,co,khong,xe may
+345,FSI_345,4,0,0,1,70,2,1,3,17/04/2020 ,3,0,24/02/2020 ,nghi phep,co gia dinh,2,150,60,khong bi benh,khong,co,bus
+346,FSI_346,5,4,2,5,70,2,0,1,01/03/2020 ,3,2,26/11/2019 ,nghi phep,co gia dinh,1,180,70,dang bi benh,khong,khong,xe may
+347,FSI_347,2,2,0,0,90,3,2,2,02/08/2020 ,3,1,26/08/2020 ,part time,co gia dinh,0,170,40,khong bi benh,co,khong,oto
+348,FSI_348,5,1,2,0,70,1,0,2,23/01/2020 ,0,2,23/11/2019 ,nghi phep,chua co gia dinh,1,180,40,dang bi benh,khong,co,xe may
+349,FSI_349,5,0,1,4,80,1,3,1,28/10/2019 ,4,4,26/03/2020 ,part time,co gia dinh,2,160,70,khong bi benh,co,khong,oto
+350,FSI_350,1,4,3,0,80,4,0,1,30/09/2019 ,4,0,15/10/2019 ,part time,co gia dinh,2,150,50,dang bi benh,khong,co,xe may
+351,FSI_351,4,0,1,3,70,1,3,1,10/03/2020 ,0,1,30/05/2020 ,nghi phep,chua co gia dinh,2,165,60,dang bi benh,co,co,oto
+352,FSI_352,0,2,2,4,100,3,3,2,22/07/2020 ,3,2,03/05/2020 ,nghi phep,chua co gia dinh,2,175,70,dang bi benh,co,khong,xe may
+353,FSI_353,0,3,0,2,70,0,0,1,02/08/2020 ,2,4,11/11/2019 ,full time,co gia dinh,3,175,60,dang bi benh,co,co,xe may
+354,FSI_354,4,1,1,0,90,4,3,1,19/10/2019 ,1,2,30/08/2020 ,part time,chua co gia dinh,2,170,70,khong bi benh,co,khong,oto
+355,FSI_355,2,1,1,1,90,1,4,1,26/11/2019 ,5,1,15/02/2020 ,full time,co gia dinh,1,160,60,dang bi benh,khong,khong,xe may
+356,FSI_356,3,1,3,0,90,2,1,1,13/05/2020 ,1,0,03/04/2020 ,nghi phep,chua co gia dinh,1,180,60,dang bi benh,co,khong,bus
+357,FSI_357,1,0,3,2,100,5,4,1,30/05/2020 ,3,0,09/04/2020 ,part time,chua co gia dinh,1,175,50,khong bi benh,co,khong,bus
+358,FSI_358,4,5,2,2,90,4,1,1,01/01/2020 ,1,4,29/03/2020 ,full time,chua co gia dinh,2,160,50,dang bi benh,co,khong,xe may
+359,FSI_359,5,0,2,0,100,4,0,1,05/10/2019 ,2,4,19/10/2019 ,part time,chua co gia dinh,1,170,70,khong bi benh,khong,khong,xe may
+360,FSI_360,0,1,1,4,90,1,1,3,11/03/2020 ,2,1,05/11/2019 ,full time,co gia dinh,1,170,70,dang bi benh,co,co,xe may
+361,FSI_361,0,4,2,2,70,3,2,2,13/08/2020 ,3,1,06/07/2020 ,nghi phep,co gia dinh,0,170,50,dang bi benh,co,co,bus
+362,FSI_362,3,5,1,3,80,0,2,1,16/04/2020 ,5,0,24/10/2019 ,nghi phep,chua co gia dinh,3,175,40,khong bi benh,co,co,xe may
+363,FSI_363,1,4,1,5,100,2,4,1,25/12/2019 ,1,2,02/02/2020 ,full time,chua co gia dinh,0,170,40,dang bi benh,co,co,bus
+364,FSI_364,1,0,0,1,90,4,2,1,26/10/2019 ,0,3,01/05/2020 ,full time,chua co gia dinh,2,175,50,khong bi benh,khong,co,xe may
+365,FSI_365,0,0,0,1,80,0,1,1,19/07/2020 ,0,5,08/02/2020 ,part time,chua co gia dinh,0,170,60,dang bi benh,khong,co,xe may
+366,FSI_366,2,5,5,2,70,4,2,1,24/01/2020 ,1,3,20/01/2020 ,full time,co gia dinh,1,180,60,dang bi benh,co,khong,xe may
+367,FSI_367,2,1,2,0,100,2,4,3,09/06/2020 ,3,1,12/03/2020 ,part time,co gia dinh,1,175,50,dang bi benh,co,co,oto
+368,FSI_368,0,0,4,4,100,1,4,2,19/12/2019 ,1,3,07/12/2019 ,nghi phep,chua co gia dinh,1,170,60,dang bi benh,khong,khong,xe may
+369,FSI_369,1,1,1,1,70,5,3,3,17/02/2020 ,0,0,06/05/2020 ,full time,co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+370,FSI_370,1,1,0,2,80,5,1,1,23/08/2020 ,0,0,02/06/2020 ,part time,co gia dinh,0,160,40,dang bi benh,co,co,bus
+371,FSI_371,1,0,5,5,90,5,3,1,04/03/2020 ,2,0,26/02/2020 ,full time,co gia dinh,2,175,60,khong bi benh,co,co,oto
+372,FSI_372,0,0,0,2,70,4,3,3,15/08/2020 ,2,5,05/12/2019 ,part time,co gia dinh,3,170,60,dang bi benh,khong,co,xe may
+373,FSI_373,0,0,0,0,80,0,5,1,13/01/2020 ,2,1,10/10/2019 ,part time,chua co gia dinh,1,175,40,dang bi benh,khong,khong,xe may
+374,FSI_374,0,0,0,0,70,1,0,1,20/02/2020 ,2,5,07/12/2019 ,part time,co gia dinh,1,180,70,dang bi benh,khong,co,xe may
+375,FSI_375,4,3,0,1,80,1,1,1,27/04/2020 ,0,0,21/11/2019 ,full time,co gia dinh,1,165,60,dang bi benh,co,khong,xe may
+376,FSI_376,0,4,3,1,100,2,0,1,21/01/2020 ,0,0,30/03/2020 ,full time,chua co gia dinh,1,170,40,khong bi benh,co,co,oto
+377,FSI_377,0,2,0,0,100,0,1,1,20/12/2019 ,0,0,14/03/2020 ,nghi phep,co gia dinh,1,160,50,dang bi benh,co,khong,bus
+378,FSI_378,0,1,1,0,100,0,0,1,13/07/2020 ,0,2,12/03/2020 ,full time,chua co gia dinh,2,160,40,dang bi benh,co,khong,xe may
+379,FSI_379,0,0,0,3,100,0,5,1,01/06/2020 ,4,2,28/10/2019 ,full time,co gia dinh,1,175,60,khong bi benh,co,co,xe may
+380,FSI_380,4,0,2,5,100,2,0,1,15/12/2019 ,2,0,19/11/2019 ,part time,co gia dinh,0,150,60,khong bi benh,khong,khong,xe may
+381,FSI_381,1,4,4,3,100,0,4,3,12/09/2019 ,0,4,18/12/2019 ,part time,chua co gia dinh,1,165,60,dang bi benh,khong,khong,xe may
+382,FSI_382,2,5,0,5,90,3,4,3,19/03/2020 ,0,0,27/01/2020 ,full time,co gia dinh,1,150,70,khong bi benh,co,co,bus
+383,FSI_383,2,2,1,0,90,2,1,1,11/09/2019 ,2,1,12/08/2020 ,full time,co gia dinh,2,175,50,dang bi benh,co,co,xe may
+384,FSI_384,0,1,1,5,70,0,1,2,16/10/2019 ,5,2,29/09/2019 ,full time,chua co gia dinh,2,180,70,khong bi benh,co,khong,xe may
+385,FSI_385,0,3,4,1,80,3,1,2,20/12/2019 ,4,0,15/12/2019 ,full time,chua co gia dinh,2,165,50,dang bi benh,co,co,xe may
+386,FSI_386,1,5,5,0,90,4,1,1,18/11/2019 ,0,1,30/07/2020 ,nghi phep,co gia dinh,0,175,60,khong bi benh,co,co,bus
+387,FSI_387,0,3,4,0,100,1,1,3,15/10/2019 ,2,3,19/01/2020 ,full time,chua co gia dinh,0,160,60,dang bi benh,khong,khong,bus
+388,FSI_388,5,2,2,3,80,0,2,1,27/05/2020 ,4,1,24/05/2020 ,nghi phep,co gia dinh,2,165,40,dang bi benh,co,khong,xe may
+389,FSI_389,3,1,5,1,80,3,1,1,30/04/2020 ,2,2,25/07/2020 ,full time,co gia dinh,2,170,70,dang bi benh,khong,co,bus
+390,FSI_390,4,5,3,3,70,0,5,1,26/11/2019 ,4,2,08/01/2020 ,full time,co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+391,FSI_391,0,2,5,0,70,0,0,1,09/11/2019 ,4,0,25/02/2020 ,nghi phep,co gia dinh,0,150,70,dang bi benh,co,co,xe may
+392,FSI_392,5,5,2,1,90,0,4,1,09/06/2020 ,0,0,20/12/2019 ,nghi phep,chua co gia dinh,2,180,60,khong bi benh,co,co,xe may
+393,FSI_393,2,0,5,3,80,0,0,1,18/02/2020 ,3,2,26/07/2020 ,part time,co gia dinh,0,160,40,dang bi benh,khong,co,xe may
+394,FSI_394,4,1,1,0,100,4,3,1,26/08/2020 ,0,1,21/03/2020 ,part time,chua co gia dinh,2,165,60,dang bi benh,khong,co,oto
+395,FSI_395,0,3,0,1,70,3,4,1,13/07/2020 ,5,2,09/12/2019 ,part time,co gia dinh,2,170,50,dang bi benh,co,co,xe may
+396,FSI_396,1,0,0,2,100,4,1,2,12/02/2020 ,0,0,02/11/2019 ,nghi phep,chua co gia dinh,1,160,60,dang bi benh,khong,co,xe may
+397,FSI_397,1,4,0,0,100,1,1,3,30/10/2019 ,4,1,27/04/2020 ,nghi phep,chua co gia dinh,2,150,70,khong bi benh,khong,khong,oto
+398,FSI_398,0,0,1,5,80,1,5,1,29/10/2019 ,1,0,30/12/2019 ,part time,chua co gia dinh,2,180,40,khong bi benh,co,khong,bus
+399,FSI_399,0,0,1,2,80,1,1,3,18/02/2020 ,5,4,12/04/2020 ,part time,chua co gia dinh,2,150,40,dang bi benh,khong,co,xe may
+400,FSI_400,2,1,0,0,80,4,2,2,28/07/2020 ,2,0,02/12/2019 ,part time,co gia dinh,1,175,70,dang bi benh,khong,khong,oto
+401,FSI_401,0,0,2,2,100,0,4,1,05/06/2020 ,1,1,08/03/2020 ,full time,chua co gia dinh,0,160,40,dang bi benh,co,khong,xe may
+402,FSI_402,5,0,1,5,70,3,1,1,17/10/2019 ,4,3,05/08/2020 ,part time,chua co gia dinh,0,180,60,khong bi benh,khong,khong,oto
+403,FSI_403,0,0,4,4,100,4,1,2,06/04/2020 ,4,0,12/04/2020 ,full time,co gia dinh,1,150,50,dang bi benh,co,khong,xe may
+404,FSI_404,0,2,0,0,100,2,4,1,18/01/2020 ,0,4,23/05/2020 ,nghi phep,chua co gia dinh,1,180,40,dang bi benh,khong,khong,oto
+405,FSI_405,2,5,0,2,80,4,3,1,21/09/2019 ,0,0,12/11/2019 ,nghi phep,chua co gia dinh,1,165,70,dang bi benh,co,khong,xe may
+406,FSI_406,2,3,0,2,70,5,1,2,08/01/2020 ,4,0,12/03/2020 ,nghi phep,chua co gia dinh,1,160,40,khong bi benh,co,khong,xe may
+407,FSI_407,0,0,0,3,70,3,2,1,05/09/2020 ,2,0,22/10/2019 ,part time,chua co gia dinh,2,160,60,dang bi benh,khong,khong,oto
+408,FSI_408,1,5,0,0,90,0,0,1,15/07/2020 ,4,1,24/08/2020 ,nghi phep,chua co gia dinh,1,170,60,dang bi benh,khong,khong,xe may
+409,FSI_409,2,0,0,1,100,1,1,1,11/12/2019 ,1,2,21/09/2019 ,full time,co gia dinh,2,160,70,khong bi benh,khong,co,xe may
+410,FSI_410,5,5,4,2,100,0,5,2,24/03/2020 ,2,0,20/06/2020 ,nghi phep,chua co gia dinh,0,160,60,khong bi benh,khong,co,oto
+411,FSI_411,1,0,0,5,70,2,1,3,13/04/2020 ,2,3,11/05/2020 ,nghi phep,chua co gia dinh,1,180,50,khong bi benh,co,khong,xe may
+412,FSI_412,5,1,5,3,100,2,0,1,04/02/2020 ,0,3,18/07/2020 ,part time,co gia dinh,1,160,40,dang bi benh,co,khong,xe may
+413,FSI_413,2,0,5,2,90,1,4,2,04/09/2020 ,3,4,18/11/2019 ,nghi phep,co gia dinh,1,150,60,khong bi benh,khong,khong,xe may
+414,FSI_414,1,2,5,4,90,3,3,1,04/06/2020 ,3,2,05/09/2020 ,part time,co gia dinh,0,180,40,khong bi benh,khong,co,oto
+415,FSI_415,4,4,2,2,70,1,0,1,07/06/2020 ,5,1,21/08/2020 ,part time,chua co gia dinh,2,150,40,dang bi benh,khong,khong,xe may
+416,FSI_416,0,5,5,5,90,3,4,2,15/01/2020 ,4,0,12/10/2019 ,full time,chua co gia dinh,3,175,40,dang bi benh,khong,khong,oto
+417,FSI_417,0,1,1,4,100,2,4,3,14/08/2020 ,2,0,02/05/2020 ,nghi phep,chua co gia dinh,1,160,60,dang bi benh,khong,co,oto
+418,FSI_418,5,2,1,2,80,0,4,1,20/11/2019 ,4,3,21/04/2020 ,nghi phep,chua co gia dinh,1,175,60,khong bi benh,co,co,oto
+419,FSI_419,0,0,2,2,90,1,2,3,12/02/2020 ,0,0,29/12/2019 ,part time,chua co gia dinh,1,160,50,khong bi benh,co,khong,xe may
+420,FSI_420,5,0,2,0,90,1,2,1,20/08/2020 ,5,1,08/10/2019 ,nghi phep,co gia dinh,0,160,70,khong bi benh,khong,khong,xe may
+421,FSI_421,2,4,3,0,80,2,1,3,12/04/2020 ,2,3,23/10/2019 ,full time,co gia dinh,1,165,60,khong bi benh,co,khong,oto
+422,FSI_422,0,0,5,5,100,1,4,1,31/12/2019 ,5,3,30/07/2020 ,full time,chua co gia dinh,0,165,50,dang bi benh,khong,co,xe may
+423,FSI_423,4,4,4,4,90,5,1,1,18/09/2019 ,0,0,12/01/2020 ,part time,chua co gia dinh,2,160,50,khong bi benh,co,co,xe may
+424,FSI_424,4,0,4,0,100,0,0,1,02/02/2020 ,0,4,22/01/2020 ,part time,chua co gia dinh,2,175,60,khong bi benh,khong,co,xe may
+425,FSI_425,4,5,0,3,70,1,1,1,20/07/2020 ,1,3,19/07/2020 ,nghi phep,co gia dinh,2,165,40,khong bi benh,co,khong,xe may
+426,FSI_426,0,2,0,5,90,3,3,1,01/11/2019 ,4,3,08/05/2020 ,full time,co gia dinh,0,180,60,khong bi benh,khong,co,xe may
+427,FSI_427,5,0,0,5,90,0,0,3,08/06/2020 ,0,0,25/01/2020 ,nghi phep,co gia dinh,1,160,70,khong bi benh,co,khong,xe may
+428,FSI_428,2,5,2,5,100,4,4,1,26/11/2019 ,0,2,11/06/2020 ,full time,chua co gia dinh,2,160,50,khong bi benh,khong,co,bus
+429,FSI_429,1,0,2,5,70,3,3,1,11/12/2019 ,1,5,05/09/2020 ,full time,chua co gia dinh,0,180,70,dang bi benh,co,khong,bus
+430,FSI_430,0,2,3,4,70,2,1,1,15/06/2020 ,0,2,18/04/2020 ,nghi phep,co gia dinh,1,165,70,khong bi benh,co,co,xe may
+431,FSI_431,4,2,1,1,100,0,0,1,28/09/2019 ,2,0,12/07/2020 ,part time,chua co gia dinh,1,160,50,khong bi benh,co,co,xe may
+432,FSI_432,4,1,4,4,80,4,4,2,26/11/2019 ,1,0,17/03/2020 ,full time,chua co gia dinh,0,180,60,dang bi benh,co,co,xe may
+433,FSI_433,1,0,0,1,70,0,0,1,19/09/2019 ,2,4,22/02/2020 ,full time,co gia dinh,1,165,50,khong bi benh,khong,khong,oto
+434,FSI_434,1,5,0,2,90,0,0,1,25/10/2019 ,2,1,01/01/2020 ,full time,chua co gia dinh,2,150,50,dang bi benh,co,co,xe may
+435,FSI_435,2,2,0,2,100,5,5,3,27/06/2020 ,1,3,11/02/2020 ,full time,chua co gia dinh,0,165,50,khong bi benh,co,co,bus
+436,FSI_436,1,2,3,1,80,5,1,1,23/04/2020 ,0,5,31/07/2020 ,part time,chua co gia dinh,3,170,40,dang bi benh,co,co,oto
+437,FSI_437,2,0,0,2,90,3,0,1,28/02/2020 ,1,4,12/01/2020 ,nghi phep,co gia dinh,1,170,40,khong bi benh,co,khong,xe may
+438,FSI_438,0,1,2,1,70,0,2,1,05/04/2020 ,0,1,12/03/2020 ,part time,co gia dinh,1,150,70,dang bi benh,khong,co,xe may
+439,FSI_439,0,0,5,0,80,2,3,1,12/10/2019 ,5,0,16/02/2020 ,part time,co gia dinh,2,165,40,khong bi benh,co,khong,xe may
+440,FSI_440,0,0,0,3,70,1,1,1,09/07/2020 ,0,1,11/12/2019 ,nghi phep,chua co gia dinh,3,180,50,dang bi benh,co,co,xe may
+441,FSI_441,0,3,5,0,90,5,3,2,05/04/2020 ,2,4,15/02/2020 ,full time,co gia dinh,1,160,40,dang bi benh,co,khong,xe may
+442,FSI_442,2,3,3,2,90,2,2,3,21/06/2020 ,1,2,14/10/2019 ,part time,chua co gia dinh,0,180,50,khong bi benh,khong,co,xe may
+443,FSI_443,0,3,0,0,80,5,0,2,01/07/2020 ,0,3,18/07/2020 ,full time,chua co gia dinh,2,165,60,khong bi benh,khong,co,oto
+444,FSI_444,2,1,0,2,70,0,0,2,30/01/2020 ,1,2,11/06/2020 ,full time,chua co gia dinh,2,160,70,khong bi benh,co,co,bus
+445,FSI_445,1,4,3,2,70,1,2,1,06/09/2020 ,2,5,28/10/2019 ,nghi phep,chua co gia dinh,1,165,50,khong bi benh,co,co,xe may
+446,FSI_446,0,1,2,0,70,0,0,1,10/03/2020 ,1,3,03/06/2020 ,full time,chua co gia dinh,0,165,60,khong bi benh,co,co,xe may
+447,FSI_447,4,1,5,2,80,2,1,1,26/10/2019 ,2,5,05/03/2020 ,part time,chua co gia dinh,1,170,70,dang bi benh,co,co,bus
+448,FSI_448,1,3,0,5,70,2,4,3,08/03/2020 ,1,5,17/11/2019 ,full time,co gia dinh,2,180,70,khong bi benh,co,co,xe may
+449,FSI_449,0,4,2,5,80,4,4,3,17/08/2020 ,0,3,09/02/2020 ,part time,chua co gia dinh,1,150,40,khong bi benh,khong,co,oto
+450,FSI_450,2,0,4,2,90,1,0,3,16/09/2019 ,2,0,08/01/2020 ,nghi phep,chua co gia dinh,1,175,70,khong bi benh,co,khong,xe may
+451,FSI_451,1,1,1,0,70,1,0,1,20/02/2020 ,5,1,03/01/2020 ,part time,co gia dinh,3,180,60,khong bi benh,khong,khong,bus
+452,FSI_452,0,0,3,1,80,4,0,2,30/03/2020 ,4,0,25/04/2020 ,full time,co gia dinh,2,175,40,dang bi benh,co,co,xe may
+453,FSI_453,0,0,0,1,80,2,1,3,10/05/2020 ,0,0,28/03/2020 ,part time,chua co gia dinh,1,165,50,dang bi benh,co,co,xe may
+454,FSI_454,4,0,0,4,90,1,2,1,30/08/2020 ,0,3,05/06/2020 ,full time,chua co gia dinh,1,160,60,khong bi benh,khong,khong,xe may
+455,FSI_455,5,2,2,0,80,2,2,2,28/05/2020 ,0,5,01/02/2020 ,nghi phep,co gia dinh,1,160,40,dang bi benh,khong,khong,bus
+456,FSI_456,3,5,1,4,70,3,1,2,30/01/2020 ,3,0,15/07/2020 ,nghi phep,chua co gia dinh,2,150,40,dang bi benh,khong,khong,oto
+457,FSI_457,3,2,2,5,80,1,3,1,02/09/2020 ,4,1,22/02/2020 ,part time,co gia dinh,1,170,70,khong bi benh,co,khong,bus
+458,FSI_458,1,5,0,1,90,1,0,1,06/03/2020 ,0,3,07/09/2020 ,full time,co gia dinh,3,160,70,khong bi benh,co,khong,bus
+459,FSI_459,3,2,4,2,70,0,2,1,06/07/2020 ,0,1,27/07/2020 ,full time,co gia dinh,1,160,70,khong bi benh,co,co,xe may
+460,FSI_460,5,3,0,0,90,5,0,2,12/04/2020 ,0,1,28/09/2019 ,full time,co gia dinh,0,175,60,khong bi benh,khong,khong,xe may
+461,FSI_461,1,3,5,2,100,0,0,1,30/11/2019 ,0,1,19/12/2019 ,full time,co gia dinh,0,160,50,dang bi benh,co,khong,xe may
+462,FSI_462,0,5,0,3,80,2,2,1,27/12/2019 ,2,0,22/02/2020 ,part time,chua co gia dinh,1,160,40,dang bi benh,co,co,oto
+463,FSI_463,0,0,3,4,80,2,0,1,20/02/2020 ,3,1,06/11/2019 ,part time,chua co gia dinh,1,180,50,khong bi benh,co,khong,bus
+464,FSI_464,5,0,2,4,100,1,2,1,05/07/2020 ,0,5,05/12/2019 ,part time,co gia dinh,0,180,60,dang bi benh,khong,co,bus
+465,FSI_465,1,2,4,4,100,0,0,1,04/08/2020 ,2,0,17/09/2019 ,nghi phep,chua co gia dinh,2,150,70,dang bi benh,khong,co,xe may
+466,FSI_466,5,0,4,3,70,1,1,2,06/02/2020 ,2,2,21/08/2020 ,part time,chua co gia dinh,0,150,70,khong bi benh,co,khong,xe may
+467,FSI_467,1,0,0,0,90,4,4,1,24/07/2020 ,2,2,11/11/2019 ,part time,co gia dinh,2,165,40,khong bi benh,khong,co,xe may
+468,FSI_468,1,0,3,1,80,4,0,2,03/02/2020 ,4,1,11/12/2019 ,part time,chua co gia dinh,1,170,50,khong bi benh,co,khong,xe may
+469,FSI_469,1,2,5,0,100,1,0,1,08/07/2020 ,1,1,22/04/2020 ,part time,co gia dinh,2,150,60,khong bi benh,khong,co,xe may
+470,FSI_470,3,1,3,4,80,3,2,2,14/06/2020 ,1,1,04/06/2020 ,full time,co gia dinh,1,150,50,dang bi benh,khong,co,xe may
+471,FSI_471,5,2,4,2,70,0,2,3,07/07/2020 ,0,2,25/11/2019 ,nghi phep,co gia dinh,2,150,60,dang bi benh,co,co,xe may
+472,FSI_472,1,2,1,2,80,4,4,3,12/07/2020 ,1,3,05/12/2019 ,part time,co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+473,FSI_473,2,2,0,2,90,3,2,1,11/10/2019 ,0,5,14/07/2020 ,part time,co gia dinh,2,165,40,dang bi benh,co,co,bus
+474,FSI_474,0,3,3,4,70,0,2,1,20/03/2020 ,3,4,17/10/2019 ,part time,chua co gia dinh,1,160,40,khong bi benh,khong,co,oto
+475,FSI_475,5,4,1,5,80,5,3,1,12/07/2020 ,0,0,02/05/2020 ,nghi phep,co gia dinh,2,170,60,dang bi benh,khong,khong,xe may
+476,FSI_476,0,0,5,0,90,3,0,1,15/03/2020 ,2,2,30/09/2019 ,part time,chua co gia dinh,1,160,60,khong bi benh,co,co,oto
+477,FSI_477,0,0,1,1,80,3,0,1,16/08/2020 ,1,0,21/11/2019 ,nghi phep,chua co gia dinh,0,175,40,khong bi benh,co,co,xe may
+478,FSI_478,1,1,5,1,70,1,3,1,03/06/2020 ,0,5,25/01/2020 ,nghi phep,co gia dinh,1,150,40,dang bi benh,co,co,oto
+479,FSI_479,2,0,3,1,90,5,2,1,25/10/2019 ,1,2,17/04/2020 ,part time,chua co gia dinh,1,170,50,dang bi benh,co,co,bus
+480,FSI_480,5,3,1,4,80,0,3,1,01/09/2020 ,1,0,28/04/2020 ,nghi phep,co gia dinh,0,175,70,khong bi benh,co,co,xe may
+481,FSI_481,0,3,4,2,80,2,4,1,29/02/2020 ,0,2,20/11/2019 ,full time,co gia dinh,1,150,60,dang bi benh,co,khong,xe may
+482,FSI_482,2,3,0,0,70,5,0,2,12/02/2020 ,2,0,29/09/2019 ,nghi phep,chua co gia dinh,2,180,70,dang bi benh,co,khong,xe may
+483,FSI_483,0,5,5,0,70,0,4,1,24/10/2019 ,3,2,12/08/2020 ,full time,chua co gia dinh,0,150,70,dang bi benh,co,khong,oto
+484,FSI_484,5,3,0,2,90,0,0,2,15/05/2020 ,1,1,30/08/2020 ,full time,chua co gia dinh,1,160,70,dang bi benh,khong,khong,bus
+485,FSI_485,5,1,0,0,90,3,5,2,29/03/2020 ,1,2,12/10/2019 ,nghi phep,co gia dinh,3,180,40,khong bi benh,co,co,bus
+486,FSI_486,5,3,0,0,90,4,4,2,13/08/2020 ,1,4,03/01/2020 ,part time,chua co gia dinh,1,175,60,khong bi benh,co,co,oto
+487,FSI_487,4,1,3,5,100,1,0,3,14/09/2019 ,5,1,06/08/2020 ,part time,chua co gia dinh,0,165,50,dang bi benh,khong,co,xe may
+488,FSI_488,3,4,3,1,100,0,3,1,10/10/2019 ,4,3,25/07/2020 ,nghi phep,co gia dinh,0,160,60,dang bi benh,co,khong,xe may
+489,FSI_489,4,0,4,4,90,0,2,2,26/04/2020 ,1,3,14/07/2020 ,full time,chua co gia dinh,0,150,50,khong bi benh,co,khong,oto
+490,FSI_490,5,0,1,3,80,0,0,1,10/09/2019 ,3,0,08/06/2020 ,nghi phep,co gia dinh,1,165,70,khong bi benh,khong,co,xe may
+491,FSI_491,2,2,1,0,80,0,0,1,06/07/2020 ,1,5,24/06/2020 ,nghi phep,co gia dinh,0,170,50,dang bi benh,co,co,xe may
+492,FSI_492,0,5,2,3,100,2,0,3,20/06/2020 ,2,2,19/03/2020 ,nghi phep,co gia dinh,1,160,50,dang bi benh,co,khong,oto
+493,FSI_493,0,2,0,0,100,1,5,1,23/11/2019 ,0,0,07/05/2020 ,nghi phep,co gia dinh,0,180,60,khong bi benh,khong,co,oto
+494,FSI_494,4,1,1,1,80,0,2,2,06/10/2019 ,4,1,11/07/2020 ,full time,co gia dinh,3,180,50,khong bi benh,khong,co,xe may
+495,FSI_495,0,4,1,0,90,2,3,1,21/10/2019 ,0,4,22/11/2019 ,nghi phep,co gia dinh,2,160,70,khong bi benh,co,co,bus
+496,FSI_496,4,0,2,3,100,4,1,1,28/02/2020 ,2,4,03/02/2020 ,nghi phep,chua co gia dinh,0,165,50,dang bi benh,co,khong,bus
+497,FSI_497,5,5,3,5,100,2,5,1,13/12/2019 ,5,2,05/11/2019 ,part time,chua co gia dinh,0,175,50,khong bi benh,khong,khong,xe may
+498,FSI_498,0,0,0,0,80,3,2,1,09/03/2020 ,2,5,20/09/2019 ,full time,chua co gia dinh,2,170,40,khong bi benh,khong,khong,xe may
+499,FSI_499,5,4,0,3,100,2,0,2,28/04/2020 ,5,4,19/06/2020 ,full time,chua co gia dinh,1,160,60,khong bi benh,khong,co,xe may
+500,FSI_500,0,5,0,1,100,3,0,1,21/11/2019 ,4,4,02/09/2020 ,nghi phep,chua co gia dinh,1,170,60,khong bi benh,co,khong,bus
+501,FSI_501,3,0,3,0,70,2,2,1,11/04/2020 ,0,4,12/06/2020 ,full time,chua co gia dinh,2,170,40,dang bi benh,co,co,xe may
+502,FSI_502,0,0,1,3,70,2,5,2,05/12/2019 ,5,2,06/10/2019 ,full time,chua co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+503,FSI_503,4,2,2,0,80,3,2,2,13/08/2020 ,4,5,15/05/2020 ,nghi phep,co gia dinh,1,150,70,dang bi benh,khong,khong,xe may
+504,FSI_504,5,4,0,3,80,0,1,1,09/01/2020 ,4,1,19/09/2019 ,nghi phep,co gia dinh,1,160,40,khong bi benh,khong,co,xe may
+505,FSI_505,5,0,3,0,100,1,0,1,30/08/2020 ,0,0,16/10/2019 ,full time,chua co gia dinh,1,175,50,khong bi benh,co,co,oto
+506,FSI_506,1,2,0,2,80,0,2,1,11/02/2020 ,0,1,11/07/2020 ,full time,chua co gia dinh,0,180,40,dang bi benh,khong,khong,xe may
+507,FSI_507,0,4,3,1,70,0,0,1,12/12/2019 ,4,0,18/10/2019 ,nghi phep,chua co gia dinh,1,150,60,dang bi benh,khong,co,xe may
+508,FSI_508,0,3,0,2,80,3,1,1,12/06/2020 ,5,0,06/08/2020 ,full time,co gia dinh,2,180,50,dang bi benh,khong,khong,xe may
+509,FSI_509,1,3,2,5,70,1,5,2,01/04/2020 ,2,4,22/09/2019 ,nghi phep,chua co gia dinh,1,160,40,dang bi benh,khong,khong,xe may
+510,FSI_510,4,2,0,4,70,4,5,2,26/11/2019 ,1,3,08/07/2020 ,full time,co gia dinh,0,165,60,khong bi benh,co,khong,xe may
+511,FSI_511,2,3,0,1,100,0,1,1,11/09/2019 ,1,1,11/09/2019 ,part time,chua co gia dinh,0,170,70,dang bi benh,khong,khong,oto
+512,FSI_512,3,0,3,0,80,4,0,1,04/06/2020 ,2,1,25/05/2020 ,full time,co gia dinh,1,170,70,dang bi benh,co,co,oto
+513,FSI_513,0,0,3,3,80,4,0,1,23/11/2019 ,3,5,02/12/2019 ,nghi phep,co gia dinh,2,150,40,khong bi benh,co,co,xe may
+514,FSI_514,2,5,2,2,90,4,0,1,31/05/2020 ,1,0,15/09/2019 ,part time,co gia dinh,0,160,40,khong bi benh,khong,khong,xe may
+515,FSI_515,0,3,0,2,80,2,5,1,27/02/2020 ,1,0,28/03/2020 ,nghi phep,co gia dinh,3,150,40,dang bi benh,co,khong,xe may
+516,FSI_516,1,5,0,5,100,2,5,2,12/08/2020 ,0,5,20/06/2020 ,nghi phep,chua co gia dinh,1,180,60,dang bi benh,co,khong,xe may
+517,FSI_517,0,4,4,0,90,2,2,2,14/03/2020 ,4,0,27/08/2020 ,part time,chua co gia dinh,2,180,70,dang bi benh,khong,khong,xe may
+518,FSI_518,0,1,0,0,100,0,5,2,14/06/2020 ,0,5,02/02/2020 ,full time,chua co gia dinh,2,165,40,dang bi benh,co,khong,xe may
+519,FSI_519,1,1,3,0,90,3,1,1,20/07/2020 ,1,4,16/04/2020 ,full time,co gia dinh,1,175,40,dang bi benh,khong,khong,xe may
+520,FSI_520,0,2,2,0,90,1,3,1,23/03/2020 ,0,0,08/09/2019 ,full time,co gia dinh,2,170,60,khong bi benh,khong,co,xe may
+521,FSI_521,0,2,0,5,90,0,0,1,30/06/2020 ,5,5,12/03/2020 ,full time,chua co gia dinh,3,150,40,dang bi benh,co,co,xe may
+522,FSI_522,3,4,0,4,90,3,2,1,20/03/2020 ,5,1,18/09/2019 ,full time,co gia dinh,2,160,70,khong bi benh,khong,co,xe may
+523,FSI_523,0,1,0,4,80,0,1,1,14/01/2020 ,1,0,21/08/2020 ,full time,chua co gia dinh,2,160,70,dang bi benh,khong,khong,xe may
+524,FSI_524,1,0,1,1,70,3,0,2,10/06/2020 ,0,0,31/05/2020 ,part time,co gia dinh,0,170,40,dang bi benh,co,co,xe may
+525,FSI_525,1,5,4,0,80,4,4,2,15/02/2020 ,0,0,29/12/2019 ,nghi phep,co gia dinh,1,150,70,khong bi benh,co,khong,oto
+526,FSI_526,0,0,1,1,100,3,2,3,05/04/2020 ,1,4,09/02/2020 ,full time,chua co gia dinh,1,170,60,dang bi benh,khong,co,xe may
+527,FSI_527,3,0,2,3,80,2,2,1,13/07/2020 ,0,1,06/08/2020 ,part time,co gia dinh,1,165,50,dang bi benh,khong,khong,xe may
+528,FSI_528,0,3,1,2,80,0,0,1,02/08/2020 ,0,4,03/10/2019 ,part time,co gia dinh,1,170,60,dang bi benh,khong,khong,xe may
+529,FSI_529,5,2,2,2,70,0,2,3,25/02/2020 ,0,0,09/07/2020 ,nghi phep,chua co gia dinh,1,165,40,dang bi benh,khong,co,bus
+530,FSI_530,5,0,4,0,90,2,2,2,23/07/2020 ,0,3,27/03/2020 ,nghi phep,co gia dinh,1,160,50,khong bi benh,co,khong,xe may
+531,FSI_531,0,0,0,5,90,1,1,1,19/06/2020 ,3,5,02/04/2020 ,nghi phep,chua co gia dinh,1,170,40,khong bi benh,khong,khong,bus
+532,FSI_532,1,5,4,4,100,1,2,2,15/12/2019 ,3,5,18/01/2020 ,part time,co gia dinh,2,170,40,khong bi benh,co,khong,oto
+533,FSI_533,3,2,5,3,80,5,5,3,06/06/2020 ,2,4,06/05/2020 ,nghi phep,chua co gia dinh,2,170,50,dang bi benh,khong,co,oto
+534,FSI_534,1,0,0,4,80,1,5,1,17/02/2020 ,4,0,19/03/2020 ,full time,chua co gia dinh,0,170,70,dang bi benh,co,khong,bus
+535,FSI_535,1,1,2,0,70,4,2,1,17/07/2020 ,2,4,18/03/2020 ,full time,co gia dinh,1,180,60,dang bi benh,khong,khong,xe may
+536,FSI_536,5,3,0,0,90,4,4,2,19/06/2020 ,1,0,24/10/2019 ,nghi phep,co gia dinh,1,150,40,khong bi benh,co,khong,xe may
+537,FSI_537,3,0,4,5,70,1,3,1,14/06/2020 ,1,2,19/03/2020 ,nghi phep,chua co gia dinh,1,150,50,khong bi benh,khong,co,oto
+538,FSI_538,1,2,0,2,90,0,4,1,13/03/2020 ,1,3,06/05/2020 ,part time,co gia dinh,3,175,70,dang bi benh,co,khong,xe may
+539,FSI_539,4,1,2,0,80,4,0,2,06/12/2019 ,2,1,05/10/2019 ,part time,chua co gia dinh,1,175,40,khong bi benh,co,co,oto
+540,FSI_540,0,4,2,0,70,4,0,1,13/05/2020 ,4,3,01/07/2020 ,full time,chua co gia dinh,3,170,60,khong bi benh,khong,khong,bus
+541,FSI_541,2,2,0,2,90,0,1,1,30/08/2020 ,4,0,23/03/2020 ,part time,co gia dinh,0,160,70,khong bi benh,khong,co,xe may
+542,FSI_542,1,2,1,0,80,3,1,2,20/04/2020 ,5,1,01/04/2020 ,nghi phep,chua co gia dinh,0,180,70,dang bi benh,khong,co,bus
+543,FSI_543,0,1,0,2,80,5,3,1,25/04/2020 ,4,0,19/03/2020 ,part time,co gia dinh,0,175,70,khong bi benh,khong,khong,xe may
+544,FSI_544,0,1,0,3,100,5,0,3,26/04/2020 ,3,0,04/11/2019 ,full time,co gia dinh,0,180,70,dang bi benh,co,khong,oto
+545,FSI_545,5,0,5,5,100,0,1,1,27/05/2020 ,0,0,22/09/2019 ,nghi phep,co gia dinh,0,170,60,khong bi benh,co,khong,xe may
+546,FSI_546,0,2,5,5,100,2,1,1,01/04/2020 ,4,5,22/07/2020 ,full time,co gia dinh,1,175,40,khong bi benh,khong,co,xe may
+547,FSI_547,2,1,0,0,70,0,2,3,08/01/2020 ,2,2,08/11/2019 ,part time,co gia dinh,2,165,60,dang bi benh,co,co,xe may
+548,FSI_548,2,4,0,4,100,0,3,1,14/10/2019 ,0,3,01/10/2019 ,part time,chua co gia dinh,1,160,40,khong bi benh,khong,co,bus
+549,FSI_549,0,1,2,0,80,0,2,1,18/03/2020 ,0,4,23/04/2020 ,part time,chua co gia dinh,0,150,60,dang bi benh,co,khong,xe may
+550,FSI_550,0,0,4,2,90,1,3,2,16/12/2019 ,2,0,20/10/2019 ,nghi phep,chua co gia dinh,0,175,60,khong bi benh,co,co,bus
+551,FSI_551,3,3,0,0,100,4,1,3,01/12/2019 ,0,3,30/11/2019 ,nghi phep,co gia dinh,1,170,70,dang bi benh,co,co,oto
+552,FSI_552,2,2,0,4,90,2,2,2,31/12/2019 ,2,3,08/05/2020 ,full time,co gia dinh,1,160,50,khong bi benh,co,khong,bus
+553,FSI_553,1,3,5,2,80,4,1,1,19/10/2019 ,4,0,23/02/2020 ,part time,co gia dinh,2,150,50,dang bi benh,co,khong,xe may
+554,FSI_554,0,2,2,4,100,4,0,1,12/05/2020 ,1,5,12/01/2020 ,part time,co gia dinh,1,175,60,dang bi benh,co,co,bus
+555,FSI_555,0,5,0,1,90,1,0,1,25/07/2020 ,2,0,28/11/2019 ,nghi phep,chua co gia dinh,2,165,50,khong bi benh,khong,khong,xe may
+556,FSI_556,1,4,3,0,100,1,0,1,02/09/2020 ,0,1,07/03/2020 ,part time,chua co gia dinh,2,160,60,dang bi benh,khong,khong,xe may
+557,FSI_557,4,4,0,2,70,1,3,2,29/12/2019 ,0,0,17/11/2019 ,full time,chua co gia dinh,0,180,60,dang bi benh,co,khong,xe may
+558,FSI_558,4,2,2,2,80,4,1,1,17/09/2019 ,1,5,27/04/2020 ,full time,co gia dinh,2,160,60,khong bi benh,khong,co,xe may
+559,FSI_559,1,2,0,2,70,5,2,2,22/04/2020 ,1,0,20/09/2019 ,full time,chua co gia dinh,1,150,50,dang bi benh,khong,co,bus
+560,FSI_560,5,0,3,0,100,5,2,3,02/03/2020 ,3,5,21/06/2020 ,nghi phep,co gia dinh,1,165,40,dang bi benh,co,co,xe may
+561,FSI_561,2,4,0,2,80,0,1,3,23/03/2020 ,4,5,29/11/2019 ,nghi phep,co gia dinh,0,165,50,khong bi benh,khong,co,xe may
+562,FSI_562,0,3,0,2,80,0,1,1,08/10/2019 ,1,0,12/02/2020 ,part time,chua co gia dinh,2,150,70,dang bi benh,co,co,xe may
+563,FSI_563,2,0,0,0,70,1,2,1,05/10/2019 ,0,4,13/09/2019 ,full time,co gia dinh,0,165,70,dang bi benh,co,co,bus
+564,FSI_564,3,2,5,1,90,5,5,1,29/04/2020 ,5,0,08/01/2020 ,full time,chua co gia dinh,1,160,40,khong bi benh,khong,khong,xe may
+565,FSI_565,0,1,5,4,90,2,4,3,06/10/2019 ,0,0,26/08/2020 ,nghi phep,chua co gia dinh,0,180,40,dang bi benh,co,co,bus
+566,FSI_566,1,5,0,2,100,0,1,2,10/01/2020 ,3,4,17/07/2020 ,part time,co gia dinh,0,150,50,dang bi benh,khong,co,oto
+567,FSI_567,0,4,3,4,80,4,2,2,07/08/2020 ,2,4,27/07/2020 ,nghi phep,chua co gia dinh,2,180,40,khong bi benh,khong,co,xe may
+568,FSI_568,0,2,1,4,90,1,0,2,19/04/2020 ,1,2,07/05/2020 ,nghi phep,co gia dinh,1,170,40,khong bi benh,khong,co,oto
+569,FSI_569,1,0,5,2,80,1,1,3,23/10/2019 ,3,2,12/07/2020 ,part time,co gia dinh,2,180,60,khong bi benh,co,khong,xe may
+570,FSI_570,1,0,1,5,80,3,4,2,02/02/2020 ,5,1,01/05/2020 ,full time,co gia dinh,2,175,50,dang bi benh,khong,co,bus
+571,FSI_571,1,0,5,2,80,0,0,1,02/09/2020 ,0,0,10/05/2020 ,part time,co gia dinh,2,180,40,khong bi benh,co,co,xe may
+572,FSI_572,5,2,2,2,80,3,1,1,01/07/2020 ,0,0,09/10/2019 ,part time,chua co gia dinh,1,170,50,khong bi benh,co,khong,oto
+573,FSI_573,1,2,1,5,90,0,3,1,29/05/2020 ,0,2,20/09/2019 ,full time,chua co gia dinh,0,180,70,dang bi benh,khong,khong,xe may
+574,FSI_574,0,0,5,0,70,2,3,1,13/12/2019 ,0,3,27/09/2019 ,full time,chua co gia dinh,1,175,50,dang bi benh,khong,khong,oto
+575,FSI_575,2,2,0,4,90,0,0,1,01/06/2020 ,1,4,06/01/2020 ,part time,chua co gia dinh,1,175,60,dang bi benh,co,co,xe may
+576,FSI_576,4,4,5,1,80,0,0,1,30/03/2020 ,1,4,18/03/2020 ,nghi phep,co gia dinh,0,160,50,khong bi benh,khong,co,xe may
+577,FSI_577,0,0,0,4,70,0,0,2,07/05/2020 ,2,1,23/11/2019 ,full time,chua co gia dinh,2,150,40,khong bi benh,khong,co,bus
+578,FSI_578,0,2,4,1,70,3,4,3,23/08/2020 ,0,4,21/04/2020 ,part time,chua co gia dinh,0,150,50,dang bi benh,khong,khong,xe may
+579,FSI_579,3,0,0,0,70,2,1,3,22/03/2020 ,2,0,03/04/2020 ,full time,co gia dinh,0,165,50,dang bi benh,khong,khong,xe may
+580,FSI_580,0,0,3,0,90,0,0,1,09/03/2020 ,0,1,09/01/2020 ,full time,co gia dinh,1,180,50,khong bi benh,khong,khong,bus
+581,FSI_581,4,5,0,1,100,4,0,3,26/12/2019 ,4,2,26/05/2020 ,part time,chua co gia dinh,1,160,70,khong bi benh,khong,co,oto
+582,FSI_582,3,5,2,0,90,2,0,1,07/05/2020 ,1,0,10/11/2019 ,part time,chua co gia dinh,1,150,50,khong bi benh,co,co,oto
+583,FSI_583,5,2,3,4,70,2,4,2,10/03/2020 ,4,0,04/10/2019 ,part time,chua co gia dinh,3,180,50,khong bi benh,co,co,oto
+584,FSI_584,1,0,0,0,90,0,4,3,28/05/2020 ,2,4,03/01/2020 ,part time,co gia dinh,1,165,50,dang bi benh,khong,khong,oto
+585,FSI_585,3,3,4,0,80,0,2,1,29/11/2019 ,0,0,14/08/2020 ,nghi phep,co gia dinh,1,170,40,khong bi benh,co,co,xe may
+586,FSI_586,3,4,0,2,80,0,2,1,18/10/2019 ,4,3,08/11/2019 ,full time,co gia dinh,2,175,70,dang bi benh,khong,khong,xe may
+587,FSI_587,0,0,4,1,100,3,1,1,13/06/2020 ,4,1,12/07/2020 ,nghi phep,co gia dinh,0,150,60,khong bi benh,khong,co,xe may
+588,FSI_588,0,0,4,0,80,4,1,1,18/08/2020 ,2,0,11/07/2020 ,part time,co gia dinh,0,180,70,dang bi benh,co,co,xe may
+589,FSI_589,3,5,3,1,80,2,4,2,08/05/2020 ,2,0,28/10/2019 ,full time,co gia dinh,1,150,70,khong bi benh,co,khong,xe may
+590,FSI_590,1,0,2,0,80,2,4,2,22/01/2020 ,1,5,22/02/2020 ,nghi phep,co gia dinh,0,180,50,khong bi benh,khong,khong,xe may
+591,FSI_591,2,2,4,4,90,0,2,2,18/09/2019 ,0,1,07/09/2020 ,nghi phep,chua co gia dinh,2,165,50,khong bi benh,co,co,xe may
+592,FSI_592,0,0,4,0,90,2,1,2,16/12/2019 ,0,2,03/11/2019 ,part time,chua co gia dinh,1,150,70,khong bi benh,khong,co,oto
+593,FSI_593,0,4,5,4,70,4,4,2,20/01/2020 ,5,2,04/08/2020 ,part time,co gia dinh,0,180,60,dang bi benh,co,co,oto
+594,FSI_594,3,3,5,0,80,4,4,2,20/07/2020 ,4,4,24/07/2020 ,part time,chua co gia dinh,2,175,40,dang bi benh,khong,co,xe may
+595,FSI_595,4,2,4,5,70,0,3,1,06/11/2019 ,4,3,06/10/2019 ,nghi phep,co gia dinh,1,165,70,dang bi benh,khong,khong,xe may
+596,FSI_596,1,2,4,3,90,0,1,2,12/07/2020 ,3,5,10/08/2020 ,full time,chua co gia dinh,1,150,60,dang bi benh,co,co,bus
+597,FSI_597,2,2,4,2,80,0,5,2,09/03/2020 ,2,1,15/09/2019 ,full time,co gia dinh,3,170,40,khong bi benh,co,co,xe may
+598,FSI_598,2,2,0,3,90,0,0,1,04/05/2020 ,2,1,14/10/2019 ,full time,co gia dinh,0,160,60,dang bi benh,khong,co,oto
+599,FSI_599,0,0,0,3,90,0,4,2,28/09/2019 ,0,4,24/05/2020 ,part time,co gia dinh,2,165,50,dang bi benh,khong,co,xe may
+600,FSI_600,0,0,0,4,80,4,1,2,01/03/2020 ,3,3,25/05/2020 ,full time,co gia dinh,2,180,50,dang bi benh,co,khong,xe may
+601,FSI_601,0,4,0,4,100,4,1,1,13/07/2020 ,2,2,06/01/2020 ,nghi phep,co gia dinh,1,180,50,dang bi benh,khong,co,bus
+602,FSI_602,0,3,3,0,70,1,5,1,16/07/2020 ,1,2,14/06/2020 ,part time,chua co gia dinh,2,160,70,khong bi benh,khong,co,xe may
+603,FSI_603,3,4,0,0,100,1,2,2,27/11/2019 ,5,4,01/07/2020 ,nghi phep,chua co gia dinh,0,150,70,dang bi benh,co,co,bus
+604,FSI_604,4,2,2,2,70,3,0,1,05/10/2019 ,1,3,14/01/2020 ,part time,co gia dinh,2,150,70,dang bi benh,co,co,oto
+605,FSI_605,1,0,0,3,70,1,2,1,04/10/2019 ,2,2,24/01/2020 ,full time,co gia dinh,3,170,40,dang bi benh,khong,co,xe may
+606,FSI_606,0,3,2,5,90,2,1,1,23/05/2020 ,0,2,22/11/2019 ,part time,chua co gia dinh,1,175,40,khong bi benh,khong,co,xe may
+607,FSI_607,2,0,1,5,80,3,1,1,09/12/2019 ,2,0,04/03/2020 ,full time,co gia dinh,1,170,40,dang bi benh,khong,khong,bus
+608,FSI_608,1,5,4,0,100,4,2,1,29/12/2019 ,4,5,09/01/2020 ,nghi phep,co gia dinh,0,160,40,khong bi benh,co,khong,xe may
+609,FSI_609,2,2,3,4,80,1,3,1,05/10/2019 ,2,4,04/05/2020 ,part time,co gia dinh,2,150,70,khong bi benh,khong,co,bus
+610,FSI_610,0,1,2,2,80,4,2,1,09/11/2019 ,0,3,11/01/2020 ,full time,co gia dinh,2,180,60,dang bi benh,co,khong,xe may
+611,FSI_611,1,1,0,4,100,2,0,2,22/12/2019 ,3,1,04/01/2020 ,full time,co gia dinh,2,175,70,khong bi benh,khong,co,bus
+612,FSI_612,1,4,1,0,100,2,4,1,09/10/2019 ,2,2,22/05/2020 ,part time,co gia dinh,0,175,60,khong bi benh,khong,co,xe may
+613,FSI_613,2,0,2,0,90,0,5,1,14/03/2020 ,1,1,30/06/2020 ,part time,chua co gia dinh,0,175,50,khong bi benh,co,khong,oto
+614,FSI_614,1,2,1,2,100,2,4,2,13/04/2020 ,0,5,23/11/2019 ,nghi phep,co gia dinh,1,160,70,khong bi benh,khong,khong,xe may
+615,FSI_615,2,1,3,1,70,5,1,1,13/11/2019 ,2,1,19/01/2020 ,nghi phep,co gia dinh,2,175,50,dang bi benh,co,co,bus
+616,FSI_616,2,2,3,2,70,1,2,2,29/01/2020 ,3,0,06/05/2020 ,full time,chua co gia dinh,0,165,50,dang bi benh,co,khong,oto
+617,FSI_617,0,2,0,1,70,1,1,1,03/03/2020 ,1,0,06/04/2020 ,part time,co gia dinh,2,180,70,khong bi benh,khong,co,xe may
+618,FSI_618,2,3,4,0,70,2,0,1,25/12/2019 ,3,5,07/11/2019 ,part time,chua co gia dinh,3,180,70,khong bi benh,co,khong,oto
+619,FSI_619,0,0,3,4,90,4,1,1,09/05/2020 ,2,2,25/12/2019 ,part time,chua co gia dinh,0,180,60,dang bi benh,khong,co,xe may
+620,FSI_620,4,3,1,0,90,2,1,1,06/01/2020 ,0,3,30/09/2019 ,part time,co gia dinh,2,175,60,dang bi benh,co,khong,oto
+621,FSI_621,0,3,2,1,90,3,1,1,24/09/2019 ,2,3,24/10/2019 ,part time,chua co gia dinh,2,180,50,khong bi benh,co,co,xe may
+622,FSI_622,1,1,1,0,80,1,4,1,22/11/2019 ,2,1,05/02/2020 ,part time,chua co gia dinh,2,180,50,khong bi benh,co,khong,oto
+623,FSI_623,5,2,1,1,80,5,0,2,01/12/2019 ,3,0,19/09/2019 ,part time,co gia dinh,1,160,50,khong bi benh,khong,co,xe may
+624,FSI_624,2,2,5,2,90,2,0,2,26/04/2020 ,1,1,06/07/2020 ,part time,chua co gia dinh,2,180,70,khong bi benh,co,khong,xe may
+625,FSI_625,3,1,3,3,80,2,1,3,01/02/2020 ,1,3,13/03/2020 ,part time,co gia dinh,1,175,70,dang bi benh,khong,khong,xe may
+626,FSI_626,0,0,0,0,90,0,5,1,10/12/2019 ,0,2,02/01/2020 ,nghi phep,chua co gia dinh,0,165,40,dang bi benh,khong,co,oto
+627,FSI_627,4,2,0,0,100,2,0,1,17/05/2020 ,5,5,08/12/2019 ,full time,co gia dinh,2,170,50,dang bi benh,khong,khong,xe may
+628,FSI_628,0,1,3,4,100,0,2,1,10/01/2020 ,1,5,10/04/2020 ,full time,chua co gia dinh,1,160,40,dang bi benh,co,co,xe may
+629,FSI_629,3,2,2,2,90,4,0,2,06/03/2020 ,2,3,13/04/2020 ,full time,chua co gia dinh,0,180,40,dang bi benh,co,co,xe may
+630,FSI_630,0,4,0,3,70,3,2,1,12/08/2020 ,0,0,07/06/2020 ,full time,chua co gia dinh,2,170,40,khong bi benh,co,khong,bus
+631,FSI_631,3,3,4,4,70,0,2,2,15/09/2019 ,5,4,03/04/2020 ,nghi phep,co gia dinh,0,180,40,dang bi benh,co,khong,bus
+632,FSI_632,0,0,1,0,70,0,0,1,17/11/2019 ,2,4,06/02/2020 ,full time,chua co gia dinh,2,150,60,dang bi benh,co,co,oto
+633,FSI_633,0,4,0,0,100,2,5,1,21/01/2020 ,3,1,15/07/2020 ,nghi phep,co gia dinh,1,170,70,khong bi benh,khong,co,xe may
+634,FSI_634,2,5,4,2,100,0,1,1,12/05/2020 ,2,0,25/07/2020 ,full time,co gia dinh,2,160,60,dang bi benh,khong,khong,oto
+635,FSI_635,2,0,2,2,80,5,4,2,23/08/2020 ,2,4,12/11/2019 ,full time,co gia dinh,1,180,40,khong bi benh,khong,co,xe may
+636,FSI_636,5,4,4,1,90,0,2,1,27/09/2019 ,3,1,16/07/2020 ,nghi phep,co gia dinh,2,180,40,khong bi benh,khong,co,xe may
+637,FSI_637,0,5,3,2,90,0,1,1,21/01/2020 ,3,1,10/05/2020 ,full time,co gia dinh,1,175,60,dang bi benh,khong,khong,xe may
+638,FSI_638,5,0,1,0,90,1,0,2,22/09/2019 ,3,4,01/04/2020 ,nghi phep,co gia dinh,3,150,40,dang bi benh,co,khong,xe may
+639,FSI_639,2,5,0,2,100,0,0,1,14/02/2020 ,1,4,05/09/2020 ,part time,chua co gia dinh,2,160,70,dang bi benh,khong,co,xe may
+640,FSI_640,5,1,1,0,90,0,2,1,15/02/2020 ,0,5,02/03/2020 ,full time,co gia dinh,1,180,60,khong bi benh,khong,co,xe may
+641,FSI_641,0,0,3,1,70,2,0,2,13/07/2020 ,0,3,20/10/2019 ,full time,chua co gia dinh,1,150,70,dang bi benh,khong,co,xe may
+642,FSI_642,2,4,1,0,80,4,1,2,03/11/2019 ,4,1,23/07/2020 ,nghi phep,chua co gia dinh,1,160,70,dang bi benh,co,co,oto
+643,FSI_643,2,1,5,1,70,1,1,1,13/08/2020 ,5,4,08/04/2020 ,part time,co gia dinh,3,175,40,khong bi benh,co,co,oto
+644,FSI_644,2,0,1,2,90,3,0,1,23/09/2019 ,4,2,17/01/2020 ,part time,co gia dinh,2,160,70,khong bi benh,khong,khong,xe may
+645,FSI_645,0,2,4,4,90,2,2,1,11/01/2020 ,3,2,22/04/2020 ,nghi phep,chua co gia dinh,0,165,60,dang bi benh,khong,co,xe may
+646,FSI_646,0,5,0,0,70,3,2,1,18/07/2020 ,5,2,09/03/2020 ,part time,co gia dinh,1,165,40,khong bi benh,co,khong,xe may
+647,FSI_647,0,2,0,2,100,0,3,2,28/05/2020 ,5,2,15/03/2020 ,full time,co gia dinh,2,165,60,dang bi benh,khong,co,bus
+648,FSI_648,1,1,1,5,80,3,5,1,09/08/2020 ,4,2,17/03/2020 ,nghi phep,chua co gia dinh,0,175,70,dang bi benh,khong,co,xe may
+649,FSI_649,4,2,3,2,70,1,0,1,25/05/2020 ,3,3,04/08/2020 ,nghi phep,co gia dinh,0,175,70,dang bi benh,khong,co,oto
+650,FSI_650,0,0,5,5,80,2,1,1,03/11/2019 ,4,2,05/02/2020 ,part time,chua co gia dinh,1,175,60,khong bi benh,co,co,bus
+651,FSI_651,1,1,1,5,90,0,3,3,18/11/2019 ,0,2,25/06/2020 ,nghi phep,chua co gia dinh,2,165,40,khong bi benh,co,khong,xe may
+652,FSI_652,0,3,2,0,100,1,0,3,05/06/2020 ,4,3,20/11/2019 ,part time,co gia dinh,1,150,40,khong bi benh,co,co,xe may
+653,FSI_653,0,2,2,3,100,1,4,3,02/10/2019 ,2,0,13/10/2019 ,full time,co gia dinh,1,165,60,dang bi benh,khong,khong,xe may
+654,FSI_654,0,5,0,2,90,1,0,1,13/05/2020 ,2,3,31/07/2020 ,full time,chua co gia dinh,3,160,60,dang bi benh,co,co,xe may
+655,FSI_655,0,2,2,0,100,2,4,3,31/01/2020 ,1,1,25/02/2020 ,part time,chua co gia dinh,0,180,40,khong bi benh,co,co,xe may
+656,FSI_656,1,4,3,2,80,1,0,3,01/12/2019 ,1,4,19/09/2019 ,part time,chua co gia dinh,2,175,50,dang bi benh,co,co,xe may
+657,FSI_657,2,3,0,4,90,1,4,3,07/04/2020 ,0,5,22/04/2020 ,full time,chua co gia dinh,2,170,40,khong bi benh,co,co,xe may
+658,FSI_658,4,3,1,0,80,1,0,1,25/02/2020 ,3,3,07/12/2019 ,part time,chua co gia dinh,2,165,60,dang bi benh,co,khong,xe may
+659,FSI_659,1,0,2,0,70,1,5,1,10/12/2019 ,2,4,17/05/2020 ,nghi phep,chua co gia dinh,1,165,50,khong bi benh,khong,co,bus
+660,FSI_660,3,0,1,2,100,1,3,1,09/03/2020 ,2,4,08/01/2020 ,part time,chua co gia dinh,1,160,70,dang bi benh,khong,co,xe may
+661,FSI_661,0,2,0,0,80,5,5,1,23/05/2020 ,4,2,08/12/2019 ,full time,chua co gia dinh,1,150,40,khong bi benh,khong,co,xe may
+662,FSI_662,0,2,2,3,70,0,3,1,07/02/2020 ,2,5,25/12/2019 ,nghi phep,co gia dinh,0,175,70,dang bi benh,khong,co,xe may
+663,FSI_663,0,1,2,0,100,0,2,1,06/11/2019 ,0,4,24/09/2019 ,nghi phep,chua co gia dinh,0,150,40,dang bi benh,khong,khong,oto
+664,FSI_664,2,1,1,2,80,5,3,1,30/10/2019 ,4,0,28/07/2020 ,part time,chua co gia dinh,0,175,50,dang bi benh,khong,co,bus
+665,FSI_665,0,2,0,1,100,0,0,3,26/03/2020 ,3,0,22/12/2019 ,part time,co gia dinh,0,160,50,dang bi benh,co,co,oto
+666,FSI_666,0,1,5,4,70,0,2,1,25/02/2020 ,1,0,10/09/2019 ,full time,chua co gia dinh,2,165,60,khong bi benh,khong,khong,oto
+667,FSI_667,2,0,3,0,80,3,2,1,12/11/2019 ,5,2,13/04/2020 ,nghi phep,chua co gia dinh,2,165,70,khong bi benh,co,co,bus
+668,FSI_668,3,5,3,1,70,2,2,3,08/07/2020 ,4,3,06/02/2020 ,full time,chua co gia dinh,1,160,50,dang bi benh,khong,khong,xe may
+669,FSI_669,2,2,1,1,80,0,4,2,18/03/2020 ,0,4,25/03/2020 ,full time,co gia dinh,2,160,50,dang bi benh,khong,co,xe may
+670,FSI_670,1,0,1,1,90,0,2,2,25/07/2020 ,0,0,13/09/2019 ,nghi phep,chua co gia dinh,0,150,40,khong bi benh,khong,khong,xe may
+671,FSI_671,2,5,1,2,100,3,0,2,06/07/2020 ,3,1,25/06/2020 ,part time,chua co gia dinh,2,175,40,dang bi benh,khong,co,xe may
+672,FSI_672,1,0,0,3,100,0,2,1,26/02/2020 ,2,2,22/05/2020 ,nghi phep,co gia dinh,3,165,70,dang bi benh,khong,khong,xe may
+673,FSI_673,0,0,1,0,100,4,1,1,19/10/2019 ,2,0,01/12/2019 ,nghi phep,co gia dinh,0,165,40,dang bi benh,co,khong,oto
+674,FSI_674,5,0,1,0,70,5,2,1,15/10/2019 ,2,1,30/04/2020 ,full time,chua co gia dinh,2,165,70,khong bi benh,co,co,oto
+675,FSI_675,0,2,0,2,90,0,0,3,07/11/2019 ,2,1,22/07/2020 ,full time,chua co gia dinh,2,175,70,dang bi benh,khong,khong,xe may
+676,FSI_676,5,2,1,0,80,2,2,2,22/07/2020 ,0,2,10/09/2019 ,part time,chua co gia dinh,1,170,50,khong bi benh,khong,khong,xe may
+677,FSI_677,3,2,3,0,80,0,2,3,01/09/2020 ,0,2,14/06/2020 ,part time,co gia dinh,1,150,60,dang bi benh,khong,co,oto
+678,FSI_678,1,3,3,2,100,0,4,1,09/05/2020 ,1,0,12/06/2020 ,part time,co gia dinh,1,180,50,dang bi benh,co,co,oto
+679,FSI_679,1,1,4,2,70,0,1,1,25/04/2020 ,3,2,01/01/2020 ,full time,chua co gia dinh,0,160,50,khong bi benh,khong,co,xe may
+680,FSI_680,3,1,1,3,90,0,4,2,01/07/2020 ,0,2,26/12/2019 ,part time,co gia dinh,2,150,50,dang bi benh,khong,co,oto
+681,FSI_681,0,2,0,1,70,1,1,2,01/06/2020 ,1,0,20/06/2020 ,full time,chua co gia dinh,2,175,60,khong bi benh,khong,co,xe may
+682,FSI_682,3,1,2,0,100,0,5,1,18/10/2019 ,2,1,14/11/2019 ,part time,co gia dinh,1,160,50,dang bi benh,co,khong,xe may
+683,FSI_683,4,3,3,1,70,3,1,1,07/10/2019 ,2,3,05/08/2020 ,full time,co gia dinh,1,150,70,dang bi benh,khong,khong,xe may
+684,FSI_684,5,2,3,5,100,4,0,1,18/06/2020 ,1,1,12/05/2020 ,nghi phep,co gia dinh,2,160,40,dang bi benh,khong,khong,xe may
+685,FSI_685,1,2,4,3,90,2,0,2,10/09/2019 ,2,0,06/04/2020 ,nghi phep,chua co gia dinh,2,180,40,khong bi benh,co,khong,oto
+686,FSI_686,5,0,0,4,100,4,0,2,29/02/2020 ,4,1,31/03/2020 ,full time,co gia dinh,2,150,40,dang bi benh,khong,co,xe may
+687,FSI_687,5,1,0,0,70,2,0,1,19/07/2020 ,0,0,09/05/2020 ,part time,chua co gia dinh,2,150,60,dang bi benh,co,co,xe may
+688,FSI_688,0,0,1,2,90,2,0,1,27/01/2020 ,0,4,02/04/2020 ,part time,co gia dinh,0,150,40,dang bi benh,co,co,xe may
+689,FSI_689,0,1,4,0,80,0,2,3,20/06/2020 ,2,2,19/03/2020 ,full time,chua co gia dinh,1,160,70,khong bi benh,co,khong,bus
+690,FSI_690,0,3,0,0,70,5,0,2,16/12/2019 ,0,5,21/09/2019 ,nghi phep,chua co gia dinh,2,165,50,khong bi benh,khong,co,xe may
+691,FSI_691,0,0,4,2,90,2,2,2,09/05/2020 ,1,1,18/03/2020 ,part time,chua co gia dinh,1,180,50,khong bi benh,co,co,oto
+692,FSI_692,0,0,5,1,90,2,0,2,06/10/2019 ,4,2,04/01/2020 ,nghi phep,chua co gia dinh,0,150,60,dang bi benh,co,khong,oto
+693,FSI_693,0,5,0,5,90,1,0,1,21/11/2019 ,4,2,15/11/2019 ,full time,chua co gia dinh,3,160,50,khong bi benh,khong,khong,xe may
+694,FSI_694,1,2,1,3,100,3,0,1,11/08/2020 ,0,1,03/08/2020 ,nghi phep,co gia dinh,1,180,40,dang bi benh,khong,khong,xe may
+695,FSI_695,0,0,3,2,70,0,1,1,13/08/2020 ,0,3,29/06/2020 ,full time,chua co gia dinh,0,170,70,dang bi benh,co,co,bus
+696,FSI_696,0,4,5,2,70,2,1,2,14/05/2020 ,2,4,18/03/2020 ,nghi phep,co gia dinh,0,170,40,dang bi benh,khong,co,oto
+697,FSI_697,0,2,2,3,70,0,1,2,21/04/2020 ,3,2,17/10/2019 ,part time,co gia dinh,0,180,70,dang bi benh,co,khong,xe may
+698,FSI_698,2,0,1,0,80,0,1,3,15/11/2019 ,2,3,31/01/2020 ,nghi phep,chua co gia dinh,2,160,50,dang bi benh,khong,khong,xe may
+699,FSI_699,0,5,0,1,80,0,1,1,13/12/2019 ,3,5,26/03/2020 ,full time,chua co gia dinh,1,175,60,dang bi benh,co,khong,xe may
+700,FSI_700,0,0,2,2,80,2,0,1,18/10/2019 ,1,1,02/08/2020 ,part time,co gia dinh,2,160,70,khong bi benh,co,co,xe may
+701,FSI_701,0,0,2,4,80,0,5,1,14/09/2019 ,1,3,20/05/2020 ,full time,chua co gia dinh,1,165,70,dang bi benh,co,co,xe may
+702,FSI_702,5,5,0,0,100,0,0,2,30/05/2020 ,0,5,08/09/2019 ,part time,chua co gia dinh,2,165,60,dang bi benh,co,khong,bus
+703,FSI_703,1,3,0,5,80,2,4,3,13/09/2019 ,2,4,23/01/2020 ,full time,chua co gia dinh,1,150,40,khong bi benh,khong,khong,xe may
+704,FSI_704,4,5,3,2,100,4,0,2,01/06/2020 ,3,2,10/10/2019 ,part time,chua co gia dinh,2,150,50,khong bi benh,khong,khong,bus
+705,FSI_705,2,3,1,4,90,2,0,2,19/09/2019 ,3,1,31/12/2019 ,nghi phep,co gia dinh,2,150,50,khong bi benh,khong,co,bus
+706,FSI_706,2,3,0,4,100,1,1,1,19/04/2020 ,1,2,03/09/2020 ,part time,chua co gia dinh,2,160,60,dang bi benh,co,khong,xe may
+707,FSI_707,2,1,0,1,80,1,4,1,29/07/2020 ,0,0,04/06/2020 ,full time,chua co gia dinh,2,180,40,khong bi benh,khong,khong,xe may
+708,FSI_708,1,0,0,1,100,4,0,1,29/05/2020 ,3,3,03/05/2020 ,full time,chua co gia dinh,2,150,60,khong bi benh,khong,co,oto
+709,FSI_709,0,5,0,5,80,0,4,2,08/06/2020 ,2,2,25/06/2020 ,part time,co gia dinh,2,160,50,khong bi benh,co,co,xe may
+710,FSI_710,0,4,2,3,70,4,4,1,28/04/2020 ,2,5,25/07/2020 ,full time,chua co gia dinh,2,160,50,khong bi benh,co,co,xe may
+711,FSI_711,2,0,5,3,100,3,1,2,02/04/2020 ,3,1,05/04/2020 ,full time,co gia dinh,3,150,50,dang bi benh,co,co,xe may
+712,FSI_712,5,2,0,3,90,2,3,1,31/07/2020 ,5,2,03/10/2019 ,part time,co gia dinh,0,150,50,dang bi benh,co,co,xe may
+713,FSI_713,2,2,4,3,90,0,4,1,19/10/2019 ,0,1,19/04/2020 ,full time,co gia dinh,3,165,60,dang bi benh,khong,co,xe may
+714,FSI_714,1,4,3,3,70,1,4,3,02/10/2019 ,2,0,26/08/2020 ,nghi phep,co gia dinh,0,170,70,khong bi benh,khong,co,oto
+715,FSI_715,2,4,0,1,90,1,0,1,13/08/2020 ,0,0,17/03/2020 ,part time,chua co gia dinh,0,180,70,dang bi benh,khong,co,oto
+716,FSI_716,3,0,0,0,100,4,4,1,23/08/2020 ,1,3,23/01/2020 ,full time,co gia dinh,0,180,50,khong bi benh,khong,co,bus
+717,FSI_717,2,0,4,1,90,2,3,2,23/08/2020 ,0,1,30/11/2019 ,full time,co gia dinh,1,165,40,dang bi benh,khong,khong,xe may
+718,FSI_718,0,2,2,0,70,0,0,3,09/10/2019 ,0,2,30/03/2020 ,part time,chua co gia dinh,0,180,50,khong bi benh,co,co,xe may
+719,FSI_719,4,1,2,0,70,2,5,1,30/12/2019 ,1,0,18/03/2020 ,nghi phep,co gia dinh,1,150,40,dang bi benh,khong,khong,xe may
+720,FSI_720,0,0,0,1,80,0,1,2,20/03/2020 ,1,5,29/10/2019 ,nghi phep,co gia dinh,1,180,70,khong bi benh,co,co,xe may
+721,FSI_721,0,5,1,1,80,0,4,1,24/01/2020 ,0,5,15/03/2020 ,part time,co gia dinh,1,150,50,dang bi benh,khong,khong,xe may
+722,FSI_722,0,4,2,0,70,0,0,1,13/02/2020 ,2,5,07/03/2020 ,nghi phep,chua co gia dinh,2,175,70,khong bi benh,co,khong,xe may
+723,FSI_723,4,1,5,3,70,0,1,2,16/09/2019 ,0,2,08/06/2020 ,full time,chua co gia dinh,0,160,70,dang bi benh,khong,co,xe may
+724,FSI_724,3,5,0,2,90,3,0,1,29/12/2019 ,0,4,10/04/2020 ,full time,chua co gia dinh,1,170,60,khong bi benh,co,co,xe may
+725,FSI_725,4,0,4,1,70,3,4,3,28/01/2020 ,4,2,26/11/2019 ,part time,co gia dinh,0,180,50,dang bi benh,khong,co,xe may
+726,FSI_726,1,0,2,1,90,1,0,1,25/07/2020 ,5,2,27/12/2019 ,full time,co gia dinh,2,180,70,khong bi benh,khong,khong,oto
+727,FSI_727,4,0,1,4,70,0,0,1,22/06/2020 ,5,0,08/12/2019 ,full time,chua co gia dinh,2,165,40,khong bi benh,khong,co,xe may
+728,FSI_728,1,0,0,0,100,1,0,1,29/10/2019 ,2,2,28/02/2020 ,nghi phep,co gia dinh,1,165,40,dang bi benh,co,co,oto
+729,FSI_729,1,3,1,4,70,1,2,3,21/08/2020 ,5,5,13/09/2019 ,full time,chua co gia dinh,0,170,70,dang bi benh,khong,co,xe may
+730,FSI_730,2,0,2,0,80,4,2,1,07/02/2020 ,0,1,20/11/2019 ,full time,co gia dinh,0,165,60,khong bi benh,khong,co,xe may
+731,FSI_731,2,5,5,1,100,1,1,1,29/05/2020 ,1,0,27/02/2020 ,part time,chua co gia dinh,0,170,60,dang bi benh,khong,co,xe may
+732,FSI_732,1,0,3,5,80,0,3,2,01/03/2020 ,0,2,18/01/2020 ,full time,co gia dinh,2,160,60,khong bi benh,khong,co,xe may
+733,FSI_733,0,3,4,4,80,1,5,3,15/11/2019 ,1,4,03/08/2020 ,part time,chua co gia dinh,2,165,60,dang bi benh,co,khong,bus
+734,FSI_734,4,1,0,3,100,0,0,3,21/07/2020 ,2,2,09/08/2020 ,full time,co gia dinh,1,165,40,khong bi benh,co,khong,xe may
+735,FSI_735,0,2,0,3,90,5,0,1,30/08/2020 ,0,2,11/11/2019 ,full time,chua co gia dinh,1,160,40,khong bi benh,khong,khong,xe may
+736,FSI_736,0,3,2,0,70,2,2,2,23/11/2019 ,1,2,27/10/2019 ,nghi phep,co gia dinh,1,180,50,dang bi benh,khong,co,xe may
+737,FSI_737,2,4,1,1,100,4,0,2,29/11/2019 ,0,4,09/04/2020 ,nghi phep,chua co gia dinh,2,150,50,khong bi benh,khong,co,xe may
+738,FSI_738,2,5,5,4,90,3,2,1,29/01/2020 ,3,0,10/09/2019 ,part time,co gia dinh,2,160,40,dang bi benh,khong,co,oto
+739,FSI_739,2,5,5,0,70,1,4,1,17/12/2019 ,1,2,27/04/2020 ,part time,co gia dinh,2,165,50,khong bi benh,khong,khong,oto
+740,FSI_740,3,4,4,5,80,0,1,1,13/12/2019 ,1,3,06/12/2019 ,full time,co gia dinh,0,175,50,khong bi benh,co,khong,oto
+741,FSI_741,2,2,3,3,90,0,0,2,01/02/2020 ,1,0,17/12/2019 ,part time,co gia dinh,0,175,70,khong bi benh,khong,khong,xe may
+742,FSI_742,2,4,2,5,100,2,2,3,20/10/2019 ,0,1,31/01/2020 ,full time,chua co gia dinh,1,175,40,khong bi benh,khong,co,xe may
+743,FSI_743,3,0,0,2,100,3,5,1,31/01/2020 ,0,0,14/02/2020 ,nghi phep,chua co gia dinh,0,175,60,dang bi benh,khong,co,xe may
+744,FSI_744,5,2,1,1,100,4,4,1,25/01/2020 ,4,0,13/07/2020 ,part time,co gia dinh,1,175,50,dang bi benh,co,khong,xe may
+745,FSI_745,4,1,1,3,90,4,4,1,21/10/2019 ,5,5,19/07/2020 ,nghi phep,co gia dinh,2,180,60,dang bi benh,khong,khong,oto
+746,FSI_746,3,1,2,0,70,1,0,2,08/02/2020 ,0,1,05/05/2020 ,nghi phep,chua co gia dinh,1,150,60,khong bi benh,khong,khong,xe may
+747,FSI_747,2,1,1,2,100,0,0,1,23/03/2020 ,2,2,28/09/2019 ,part time,chua co gia dinh,0,160,70,dang bi benh,co,co,xe may
+748,FSI_748,3,0,1,4,80,0,3,1,16/04/2020 ,3,5,20/11/2019 ,nghi phep,chua co gia dinh,1,175,60,khong bi benh,khong,co,xe may
+749,FSI_749,1,2,1,0,70,4,0,1,03/07/2020 ,2,2,08/02/2020 ,nghi phep,chua co gia dinh,0,165,60,khong bi benh,khong,khong,xe may
+750,FSI_750,4,1,1,5,100,0,0,1,22/11/2019 ,0,3,28/01/2020 ,full time,co gia dinh,2,175,40,khong bi benh,khong,co,xe may
+751,FSI_751,1,0,2,3,90,1,0,2,04/12/2019 ,1,1,01/01/2020 ,part time,chua co gia dinh,0,170,60,dang bi benh,khong,khong,oto
+752,FSI_752,2,2,0,4,100,4,0,2,17/06/2020 ,4,3,16/08/2020 ,part time,co gia dinh,1,170,40,dang bi benh,khong,khong,xe may
+753,FSI_753,4,0,2,1,80,1,5,1,27/11/2019 ,1,2,08/12/2019 ,full time,co gia dinh,0,165,50,khong bi benh,co,co,bus
+754,FSI_754,0,0,0,2,80,3,1,2,20/05/2020 ,0,2,08/11/2019 ,nghi phep,chua co gia dinh,3,170,50,dang bi benh,co,khong,xe may
+755,FSI_755,2,2,0,1,70,3,0,1,05/12/2019 ,1,2,16/06/2020 ,part time,co gia dinh,3,170,50,khong bi benh,co,co,xe may
+756,FSI_756,2,0,3,3,100,2,5,1,11/05/2020 ,1,0,25/06/2020 ,nghi phep,chua co gia dinh,2,170,70,dang bi benh,co,co,oto
+757,FSI_757,4,0,0,3,100,3,1,2,21/12/2019 ,1,5,22/01/2020 ,full time,co gia dinh,2,165,70,khong bi benh,khong,khong,xe may
+758,FSI_758,3,0,0,4,100,2,1,1,20/06/2020 ,4,0,24/07/2020 ,nghi phep,chua co gia dinh,2,150,60,khong bi benh,khong,khong,oto
+759,FSI_759,0,0,1,2,100,3,2,2,20/05/2020 ,2,0,23/08/2020 ,part time,chua co gia dinh,1,160,70,dang bi benh,co,co,xe may
+760,FSI_760,3,5,5,1,80,5,0,3,24/12/2019 ,0,4,29/04/2020 ,nghi phep,chua co gia dinh,1,175,50,dang bi benh,co,co,oto
+761,FSI_761,5,2,1,1,80,0,4,1,07/07/2020 ,5,3,15/11/2019 ,full time,chua co gia dinh,2,170,50,dang bi benh,co,co,xe may
+762,FSI_762,2,4,1,5,70,4,0,3,19/03/2020 ,4,3,08/04/2020 ,part time,chua co gia dinh,2,180,60,khong bi benh,khong,co,bus
+763,FSI_763,3,4,3,2,100,4,1,2,05/03/2020 ,0,2,30/07/2020 ,full time,co gia dinh,2,180,50,dang bi benh,khong,khong,bus
+764,FSI_764,3,0,2,1,90,1,1,1,08/01/2020 ,0,3,04/08/2020 ,full time,chua co gia dinh,1,170,60,khong bi benh,co,khong,oto
+765,FSI_765,3,0,1,1,90,0,3,3,20/10/2019 ,0,2,21/05/2020 ,full time,co gia dinh,2,150,50,khong bi benh,khong,co,xe may
+766,FSI_766,1,0,1,2,80,0,4,1,16/06/2020 ,5,1,26/01/2020 ,nghi phep,co gia dinh,2,150,60,khong bi benh,co,co,xe may
+767,FSI_767,1,0,0,2,70,0,5,2,23/05/2020 ,1,1,04/09/2020 ,nghi phep,co gia dinh,0,165,70,khong bi benh,co,co,xe may
+768,FSI_768,1,5,5,2,70,2,1,1,12/02/2020 ,2,0,01/06/2020 ,part time,chua co gia dinh,2,170,60,khong bi benh,khong,co,xe may
+769,FSI_769,2,1,2,0,70,4,2,1,04/04/2020 ,4,0,04/12/2019 ,nghi phep,chua co gia dinh,3,170,50,khong bi benh,co,khong,oto
+770,FSI_770,0,1,1,3,100,1,5,2,09/03/2020 ,2,3,05/03/2020 ,full time,co gia dinh,1,170,40,dang bi benh,co,co,oto
+771,FSI_771,2,5,1,1,100,5,3,1,07/07/2020 ,0,0,08/11/2019 ,full time,co gia dinh,0,175,70,dang bi benh,co,khong,bus
+772,FSI_772,0,0,5,5,90,3,0,1,13/03/2020 ,3,2,23/08/2020 ,nghi phep,co gia dinh,0,175,70,dang bi benh,co,co,oto
+773,FSI_773,0,2,2,3,70,2,2,2,16/12/2019 ,0,0,28/11/2019 ,part time,co gia dinh,1,180,70,dang bi benh,khong,khong,oto
+774,FSI_774,0,4,1,4,90,5,1,1,22/04/2020 ,3,3,25/10/2019 ,full time,chua co gia dinh,2,150,40,khong bi benh,co,khong,xe may
+775,FSI_775,0,0,0,4,80,2,3,1,07/12/2019 ,0,3,30/07/2020 ,nghi phep,co gia dinh,1,165,60,khong bi benh,khong,khong,oto
+776,FSI_776,0,1,0,0,100,5,0,3,19/02/2020 ,0,5,22/03/2020 ,full time,chua co gia dinh,2,170,70,dang bi benh,co,khong,xe may
+777,FSI_777,2,1,2,3,80,0,1,2,30/07/2020 ,1,0,21/05/2020 ,nghi phep,chua co gia dinh,2,170,50,khong bi benh,co,co,oto
+778,FSI_778,5,0,5,1,70,4,2,1,20/07/2020 ,0,5,18/02/2020 ,nghi phep,chua co gia dinh,1,175,70,khong bi benh,khong,co,xe may
+779,FSI_779,0,5,0,0,100,5,0,3,11/06/2020 ,3,3,05/06/2020 ,full time,co gia dinh,1,150,70,dang bi benh,khong,khong,xe may
+780,FSI_780,2,0,0,0,70,2,2,2,01/06/2020 ,0,3,16/08/2020 ,part time,co gia dinh,1,175,70,dang bi benh,co,co,xe may
+781,FSI_781,2,4,4,0,70,5,0,1,05/11/2019 ,5,0,11/07/2020 ,full time,co gia dinh,1,175,50,khong bi benh,co,co,oto
+782,FSI_782,2,3,0,0,100,2,4,2,23/11/2019 ,2,4,13/09/2019 ,full time,chua co gia dinh,1,170,60,khong bi benh,khong,co,oto
+783,FSI_783,4,2,1,2,90,0,2,2,22/04/2020 ,3,0,11/02/2020 ,nghi phep,chua co gia dinh,0,180,70,dang bi benh,khong,co,xe may
+784,FSI_784,5,2,1,2,100,2,4,2,09/01/2020 ,1,4,05/12/2019 ,nghi phep,chua co gia dinh,1,170,70,dang bi benh,khong,co,xe may
+785,FSI_785,0,4,1,1,100,0,0,1,21/05/2020 ,2,1,24/02/2020 ,part time,chua co gia dinh,1,175,50,dang bi benh,khong,khong,oto
+786,FSI_786,2,0,5,1,80,4,4,1,02/03/2020 ,2,0,15/02/2020 ,full time,co gia dinh,1,160,50,dang bi benh,co,co,bus
+787,FSI_787,0,5,5,3,80,0,2,1,12/03/2020 ,1,4,04/02/2020 ,part time,co gia dinh,2,165,40,dang bi benh,co,khong,xe may
+788,FSI_788,5,1,3,1,90,4,2,3,02/09/2020 ,3,0,04/05/2020 ,full time,co gia dinh,0,150,50,khong bi benh,co,co,xe may
+789,FSI_789,0,1,1,0,90,0,2,2,28/07/2020 ,3,2,03/05/2020 ,nghi phep,chua co gia dinh,0,175,60,khong bi benh,khong,khong,xe may
+790,FSI_790,5,0,0,2,70,0,3,3,28/01/2020 ,4,5,03/04/2020 ,full time,chua co gia dinh,2,180,40,khong bi benh,khong,co,xe may
+791,FSI_791,3,0,4,4,70,2,1,1,18/05/2020 ,5,4,02/01/2020 ,part time,chua co gia dinh,2,160,50,khong bi benh,co,co,xe may
+792,FSI_792,2,5,1,5,90,2,2,3,30/12/2019 ,2,0,25/05/2020 ,nghi phep,co gia dinh,2,165,50,dang bi benh,khong,co,xe may
+793,FSI_793,0,0,4,1,100,2,3,3,16/04/2020 ,1,4,03/09/2020 ,part time,co gia dinh,0,170,70,khong bi benh,co,khong,xe may
+794,FSI_794,2,2,5,4,80,0,1,2,28/12/2019 ,3,2,21/05/2020 ,full time,co gia dinh,1,165,50,dang bi benh,co,khong,oto
+795,FSI_795,4,0,3,0,90,1,3,1,16/02/2020 ,2,0,13/07/2020 ,part time,chua co gia dinh,2,160,50,dang bi benh,co,khong,xe may
+796,FSI_796,0,2,0,2,100,3,0,1,19/05/2020 ,3,4,22/06/2020 ,part time,co gia dinh,1,165,40,dang bi benh,khong,khong,bus
+797,FSI_797,3,1,2,0,90,0,0,2,29/08/2020 ,2,3,07/05/2020 ,full time,co gia dinh,1,175,40,dang bi benh,khong,co,xe may
+798,FSI_798,1,0,0,0,70,2,0,2,27/04/2020 ,2,2,21/07/2020 ,nghi phep,chua co gia dinh,0,160,40,khong bi benh,co,co,oto
+799,FSI_799,4,0,1,2,80,5,1,1,27/04/2020 ,0,2,18/02/2020 ,part time,chua co gia dinh,2,165,50,khong bi benh,khong,co,xe may
+800,FSI_800,4,0,2,2,90,2,0,2,12/04/2020 ,1,0,03/12/2019 ,full time,chua co gia dinh,1,170,50,khong bi benh,co,co,bus
+801,FSI_801,1,0,0,0,90,4,4,1,23/11/2019 ,0,0,08/06/2020 ,nghi phep,co gia dinh,2,180,50,khong bi benh,co,khong,xe may
+802,FSI_802,1,1,0,5,90,2,2,3,30/09/2019 ,3,4,27/09/2019 ,nghi phep,chua co gia dinh,1,165,70,khong bi benh,co,co,xe may
+803,FSI_803,0,0,5,1,70,4,1,2,08/10/2019 ,0,3,05/01/2020 ,part time,co gia dinh,0,170,50,dang bi benh,co,khong,bus
+804,FSI_804,2,4,0,2,70,5,1,2,28/04/2020 ,1,0,08/06/2020 ,full time,chua co gia dinh,2,175,50,khong bi benh,khong,co,bus
+805,FSI_805,0,0,0,5,70,0,0,1,15/01/2020 ,4,5,11/05/2020 ,full time,co gia dinh,1,170,40,khong bi benh,co,khong,bus
+806,FSI_806,3,3,4,1,80,0,0,3,14/11/2019 ,1,2,15/09/2019 ,nghi phep,co gia dinh,1,170,50,khong bi benh,co,co,xe may
+807,FSI_807,3,0,1,0,100,5,0,1,28/10/2019 ,0,3,21/06/2020 ,full time,chua co gia dinh,1,170,60,dang bi benh,khong,khong,bus
+808,FSI_808,2,2,0,1,100,0,3,1,12/04/2020 ,4,4,11/08/2020 ,nghi phep,co gia dinh,0,170,60,khong bi benh,co,khong,bus
+809,FSI_809,5,1,0,0,90,0,4,2,06/12/2019 ,4,2,13/09/2019 ,nghi phep,co gia dinh,0,165,60,dang bi benh,co,khong,xe may
+810,FSI_810,3,2,0,5,80,4,5,3,06/09/2020 ,4,0,23/02/2020 ,full time,chua co gia dinh,0,150,60,khong bi benh,co,khong,xe may
+811,FSI_811,2,3,5,5,70,1,0,3,13/06/2020 ,0,3,10/01/2020 ,full time,chua co gia dinh,2,160,60,dang bi benh,co,co,oto
+812,FSI_812,0,0,0,0,100,0,4,1,07/06/2020 ,0,1,16/12/2019 ,full time,co gia dinh,2,170,40,khong bi benh,co,khong,xe may
+813,FSI_813,1,1,0,4,90,0,5,2,18/05/2020 ,1,0,23/04/2020 ,full time,co gia dinh,2,170,70,khong bi benh,khong,khong,xe may
+814,FSI_814,0,2,1,0,80,5,4,1,25/08/2020 ,0,4,05/04/2020 ,full time,chua co gia dinh,0,160,60,dang bi benh,khong,khong,xe may
+815,FSI_815,4,2,0,0,80,0,3,1,03/07/2020 ,0,2,20/11/2019 ,part time,co gia dinh,0,165,40,khong bi benh,co,co,xe may
+816,FSI_816,3,3,0,5,90,0,5,2,31/07/2020 ,2,1,18/06/2020 ,full time,co gia dinh,1,150,40,khong bi benh,co,khong,xe may
+817,FSI_817,2,2,0,4,90,1,0,1,05/04/2020 ,2,1,08/01/2020 ,full time,co gia dinh,1,175,70,khong bi benh,khong,khong,xe may
+818,FSI_818,2,2,5,0,80,4,1,1,04/03/2020 ,2,5,14/02/2020 ,nghi phep,co gia dinh,2,165,60,khong bi benh,khong,khong,xe may
+819,FSI_819,0,4,1,2,70,5,0,2,25/10/2019 ,5,2,17/09/2019 ,full time,co gia dinh,2,175,70,dang bi benh,khong,khong,xe may
+820,FSI_820,1,1,0,3,100,5,0,1,09/06/2020 ,4,5,23/04/2020 ,full time,chua co gia dinh,3,165,70,dang bi benh,co,co,xe may
+821,FSI_821,3,3,3,1,70,4,0,2,24/09/2019 ,2,0,20/04/2020 ,part time,co gia dinh,1,180,40,khong bi benh,khong,co,bus
+822,FSI_822,0,2,0,3,100,2,4,1,21/09/2019 ,3,2,21/06/2020 ,nghi phep,co gia dinh,2,180,40,dang bi benh,co,khong,xe may
+823,FSI_823,1,2,4,1,100,0,0,1,15/08/2020 ,2,1,25/04/2020 ,nghi phep,co gia dinh,1,175,60,dang bi benh,co,co,oto
+824,FSI_824,0,2,1,1,70,0,1,1,15/03/2020 ,2,4,12/12/2019 ,full time,co gia dinh,2,165,70,dang bi benh,co,khong,xe may
+825,FSI_825,1,0,1,0,90,1,2,1,25/12/2019 ,1,0,01/09/2020 ,nghi phep,chua co gia dinh,2,180,50,khong bi benh,co,co,xe may
+826,FSI_826,1,5,0,3,80,5,1,1,30/03/2020 ,0,2,10/04/2020 ,part time,chua co gia dinh,2,165,50,dang bi benh,co,khong,oto
+827,FSI_827,4,0,5,0,100,0,0,1,17/07/2020 ,0,0,10/03/2020 ,part time,co gia dinh,2,150,60,dang bi benh,khong,co,bus
+828,FSI_828,1,0,2,5,80,2,1,1,25/11/2019 ,5,1,22/10/2019 ,nghi phep,co gia dinh,2,165,70,khong bi benh,co,khong,xe may
+829,FSI_829,0,0,4,0,80,2,0,1,04/09/2020 ,5,1,12/09/2019 ,full time,chua co gia dinh,1,170,50,khong bi benh,co,khong,oto
+830,FSI_830,1,1,3,3,100,1,0,2,17/10/2019 ,5,3,23/09/2019 ,nghi phep,co gia dinh,2,165,40,dang bi benh,co,co,bus
+831,FSI_831,1,5,3,0,100,3,0,3,11/12/2019 ,4,1,05/03/2020 ,part time,co gia dinh,1,170,40,khong bi benh,khong,khong,oto
+832,FSI_832,0,2,0,0,70,0,0,3,28/02/2020 ,0,0,17/12/2019 ,nghi phep,chua co gia dinh,2,160,60,khong bi benh,co,co,xe may
+833,FSI_833,3,1,1,4,90,0,1,3,22/02/2020 ,2,0,19/09/2019 ,part time,chua co gia dinh,2,165,40,khong bi benh,khong,khong,bus
+834,FSI_834,4,0,0,2,100,2,4,2,13/01/2020 ,4,1,18/11/2019 ,nghi phep,co gia dinh,0,150,40,dang bi benh,khong,co,xe may
+835,FSI_835,3,3,1,2,90,0,3,2,01/09/2020 ,5,4,09/09/2019 ,full time,co gia dinh,0,175,60,dang bi benh,khong,khong,xe may
+836,FSI_836,5,3,5,3,70,2,3,1,24/02/2020 ,1,5,01/12/2019 ,nghi phep,chua co gia dinh,1,150,40,khong bi benh,khong,khong,oto
+837,FSI_837,5,2,2,1,90,1,3,3,17/11/2019 ,3,5,26/01/2020 ,nghi phep,co gia dinh,0,180,70,khong bi benh,khong,khong,bus
+838,FSI_838,0,2,4,5,80,1,3,1,07/08/2020 ,0,0,29/07/2020 ,full time,chua co gia dinh,0,165,70,khong bi benh,co,co,xe may
+839,FSI_839,0,4,2,1,80,2,0,3,21/05/2020 ,4,0,27/03/2020 ,part time,chua co gia dinh,2,160,50,khong bi benh,co,co,bus
+840,FSI_840,3,3,0,1,70,4,1,3,05/07/2020 ,0,0,13/03/2020 ,nghi phep,co gia dinh,2,175,70,khong bi benh,khong,co,xe may
+841,FSI_841,5,5,5,1,70,2,2,3,05/10/2019 ,4,1,04/02/2020 ,nghi phep,co gia dinh,0,150,70,khong bi benh,co,khong,xe may
+842,FSI_842,0,5,0,1,70,3,1,2,06/08/2020 ,0,5,01/05/2020 ,part time,chua co gia dinh,0,165,70,dang bi benh,co,co,xe may
+843,FSI_843,5,0,3,4,100,3,2,1,05/04/2020 ,5,1,25/07/2020 ,part time,co gia dinh,1,160,70,dang bi benh,co,khong,xe may
+844,FSI_844,3,4,2,0,100,2,3,1,30/06/2020 ,0,2,01/02/2020 ,nghi phep,chua co gia dinh,2,165,50,khong bi benh,khong,co,bus
+845,FSI_845,2,3,2,0,100,0,3,2,18/09/2019 ,0,0,28/09/2019 ,nghi phep,chua co gia dinh,1,170,40,dang bi benh,co,co,xe may
+846,FSI_846,1,5,2,1,90,0,0,1,14/06/2020 ,5,5,26/01/2020 ,full time,co gia dinh,1,165,60,khong bi benh,khong,khong,oto
+847,FSI_847,2,0,2,0,70,4,0,1,20/04/2020 ,5,1,22/05/2020 ,full time,chua co gia dinh,2,175,70,khong bi benh,co,co,bus
+848,FSI_848,1,5,3,5,80,2,0,1,11/09/2019 ,2,3,05/05/2020 ,part time,co gia dinh,0,175,60,dang bi benh,co,khong,oto
+849,FSI_849,5,0,4,0,80,0,3,1,18/04/2020 ,3,3,29/03/2020 ,full time,co gia dinh,1,180,60,dang bi benh,khong,khong,xe may
+850,FSI_850,1,4,0,0,100,3,2,1,07/12/2019 ,5,1,23/05/2020 ,full time,co gia dinh,2,165,50,dang bi benh,co,co,xe may
+851,FSI_851,3,5,1,3,70,4,2,1,21/05/2020 ,0,0,27/01/2020 ,part time,co gia dinh,2,160,50,khong bi benh,khong,co,bus
+852,FSI_852,2,0,2,4,90,2,2,3,17/05/2020 ,0,0,16/11/2019 ,full time,co gia dinh,3,160,70,dang bi benh,co,co,oto
+853,FSI_853,0,5,4,0,90,2,3,2,30/06/2020 ,1,4,21/09/2019 ,part time,co gia dinh,1,150,60,dang bi benh,khong,khong,xe may
+854,FSI_854,0,1,0,5,100,5,0,1,19/05/2020 ,2,1,29/07/2020 ,part time,co gia dinh,2,180,40,dang bi benh,co,co,xe may
+855,FSI_855,2,0,5,2,70,1,4,1,22/04/2020 ,1,1,07/08/2020 ,nghi phep,chua co gia dinh,2,160,50,khong bi benh,khong,co,bus
+856,FSI_856,0,5,0,0,80,5,2,1,08/02/2020 ,1,4,09/01/2020 ,part time,chua co gia dinh,3,170,70,dang bi benh,khong,co,xe may
+857,FSI_857,2,0,1,3,90,1,3,2,31/05/2020 ,1,1,06/08/2020 ,nghi phep,co gia dinh,1,160,70,khong bi benh,co,co,xe may
+858,FSI_858,0,0,3,4,80,1,4,1,03/09/2020 ,1,1,14/12/2019 ,part time,co gia dinh,1,180,50,dang bi benh,khong,khong,oto
+859,FSI_859,0,0,3,4,100,1,1,1,27/03/2020 ,1,3,11/05/2020 ,full time,co gia dinh,2,165,70,khong bi benh,khong,khong,xe may
+860,FSI_860,2,0,1,4,90,0,5,1,19/04/2020 ,5,1,21/01/2020 ,nghi phep,co gia dinh,2,150,70,khong bi benh,khong,khong,bus
+861,FSI_861,3,1,4,0,100,5,0,1,03/02/2020 ,2,2,12/08/2020 ,full time,chua co gia dinh,1,150,70,dang bi benh,co,khong,oto
+862,FSI_862,0,3,0,0,100,3,3,1,28/03/2020 ,0,0,07/09/2020 ,part time,chua co gia dinh,0,175,70,dang bi benh,khong,co,xe may
+863,FSI_863,0,4,1,5,70,3,3,1,25/09/2019 ,0,0,10/02/2020 ,part time,co gia dinh,0,175,50,dang bi benh,co,co,bus
+864,FSI_864,3,3,1,4,100,2,5,1,10/01/2020 ,0,4,24/07/2020 ,part time,co gia dinh,0,165,40,dang bi benh,co,khong,xe may
+865,FSI_865,3,1,2,4,90,0,0,2,29/02/2020 ,2,1,13/02/2020 ,full time,chua co gia dinh,0,170,50,khong bi benh,khong,khong,bus
+866,FSI_866,2,1,3,3,90,2,5,1,07/07/2020 ,3,4,14/02/2020 ,full time,co gia dinh,1,180,40,dang bi benh,khong,khong,xe may
+867,FSI_867,3,5,1,1,90,4,0,3,05/09/2020 ,0,0,17/02/2020 ,full time,chua co gia dinh,1,150,40,dang bi benh,co,co,xe may
+868,FSI_868,0,0,5,3,90,1,3,1,11/12/2019 ,0,5,28/06/2020 ,nghi phep,chua co gia dinh,1,175,70,dang bi benh,co,khong,xe may
+869,FSI_869,3,1,1,1,90,0,0,1,25/09/2019 ,1,4,25/11/2019 ,part time,chua co gia dinh,2,180,40,dang bi benh,co,co,xe may
+870,FSI_870,1,0,1,0,70,5,0,1,21/05/2020 ,0,0,06/08/2020 ,nghi phep,chua co gia dinh,0,150,70,dang bi benh,khong,co,bus
+871,FSI_871,0,0,4,3,70,3,2,2,23/06/2020 ,1,0,29/01/2020 ,full time,chua co gia dinh,0,180,50,khong bi benh,co,co,bus
+872,FSI_872,3,5,0,1,90,1,1,1,19/07/2020 ,3,1,04/05/2020 ,nghi phep,chua co gia dinh,2,180,60,dang bi benh,co,khong,oto
+873,FSI_873,1,2,1,2,70,0,3,3,24/04/2020 ,0,1,30/06/2020 ,full time,chua co gia dinh,0,170,70,dang bi benh,khong,khong,xe may
+874,FSI_874,0,1,0,2,90,1,5,1,30/01/2020 ,2,0,05/02/2020 ,full time,co gia dinh,2,170,70,khong bi benh,khong,co,xe may
+875,FSI_875,0,1,0,5,70,4,4,1,10/02/2020 ,1,3,26/12/2019 ,full time,co gia dinh,1,150,70,dang bi benh,khong,co,xe may
+876,FSI_876,5,4,3,2,90,0,2,1,15/09/2019 ,3,0,06/04/2020 ,full time,co gia dinh,1,170,60,dang bi benh,khong,khong,xe may
+877,FSI_877,3,2,5,0,80,5,1,1,25/05/2020 ,0,0,15/04/2020 ,full time,chua co gia dinh,1,180,70,dang bi benh,co,khong,xe may
+878,FSI_878,0,0,1,1,100,2,1,1,11/08/2020 ,0,3,15/02/2020 ,full time,chua co gia dinh,2,170,60,dang bi benh,co,co,bus
+879,FSI_879,2,1,2,0,90,2,4,1,14/04/2020 ,0,0,07/05/2020 ,part time,co gia dinh,0,170,70,dang bi benh,khong,co,oto
+880,FSI_880,1,0,0,1,70,4,5,1,30/04/2020 ,1,0,01/08/2020 ,nghi phep,chua co gia dinh,1,175,70,khong bi benh,co,khong,bus
+881,FSI_881,2,0,0,4,90,0,4,3,30/07/2020 ,5,4,06/08/2020 ,full time,chua co gia dinh,0,180,50,dang bi benh,co,co,oto
+882,FSI_882,1,0,0,0,100,4,5,1,10/08/2020 ,0,0,15/11/2019 ,full time,co gia dinh,1,180,50,dang bi benh,co,khong,xe may
+883,FSI_883,3,1,5,1,90,0,0,1,16/04/2020 ,0,5,09/06/2020 ,full time,chua co gia dinh,0,165,40,dang bi benh,co,co,xe may
+884,FSI_884,4,1,5,0,90,2,0,1,11/05/2020 ,1,0,05/04/2020 ,nghi phep,co gia dinh,0,150,50,khong bi benh,co,co,xe may
+885,FSI_885,1,0,3,0,100,0,1,1,09/11/2019 ,5,2,23/05/2020 ,nghi phep,co gia dinh,2,165,40,dang bi benh,co,khong,bus
+886,FSI_886,2,4,3,1,100,5,0,2,29/09/2019 ,3,5,06/02/2020 ,full time,co gia dinh,0,165,50,khong bi benh,co,co,xe may
+887,FSI_887,0,4,0,2,80,4,4,3,17/10/2019 ,1,0,04/10/2019 ,nghi phep,co gia dinh,0,160,50,dang bi benh,co,khong,xe may
+888,FSI_888,1,2,3,0,90,0,0,1,24/07/2020 ,5,4,01/07/2020 ,nghi phep,co gia dinh,1,180,50,khong bi benh,khong,co,xe may
+889,FSI_889,3,5,2,3,80,2,3,1,26/01/2020 ,0,0,14/03/2020 ,part time,co gia dinh,1,170,40,khong bi benh,co,co,oto
+890,FSI_890,0,4,0,3,100,1,2,2,31/12/2019 ,2,0,27/08/2020 ,part time,chua co gia dinh,2,170,50,dang bi benh,co,co,xe may
+891,FSI_891,4,0,1,2,90,0,3,2,20/11/2019 ,3,2,05/03/2020 ,full time,co gia dinh,2,170,40,khong bi benh,co,co,xe may
+892,FSI_892,0,4,1,1,100,5,2,1,30/03/2020 ,0,3,17/01/2020 ,part time,co gia dinh,2,160,60,khong bi benh,co,co,bus
+893,FSI_893,0,1,0,1,100,1,1,1,09/11/2019 ,3,5,29/03/2020 ,part time,co gia dinh,1,160,50,dang bi benh,khong,co,xe may
+894,FSI_894,0,0,5,0,100,2,5,1,13/11/2019 ,3,5,07/06/2020 ,nghi phep,co gia dinh,2,175,40,dang bi benh,khong,co,xe may
+895,FSI_895,5,3,5,0,100,2,0,1,16/09/2019 ,0,0,18/02/2020 ,full time,chua co gia dinh,2,160,60,khong bi benh,co,khong,xe may
+896,FSI_896,2,2,4,1,100,4,3,1,06/11/2019 ,5,5,19/07/2020 ,nghi phep,co gia dinh,2,180,50,dang bi benh,co,khong,bus
+897,FSI_897,5,2,3,0,80,5,0,1,14/01/2020 ,1,0,29/06/2020 ,nghi phep,co gia dinh,1,175,70,dang bi benh,co,khong,xe may
+898,FSI_898,1,2,5,1,70,4,4,1,15/07/2020 ,1,1,12/05/2020 ,part time,co gia dinh,1,165,40,khong bi benh,co,co,oto
+899,FSI_899,5,3,1,4,90,1,5,1,23/02/2020 ,1,3,17/11/2019 ,part time,co gia dinh,1,165,60,khong bi benh,khong,co,xe may
+900,FSI_900,0,0,4,0,90,1,4,1,09/04/2020 ,5,0,08/09/2019 ,nghi phep,chua co gia dinh,0,170,70,dang bi benh,co,co,bus
+901,FSI_901,0,0,0,4,90,2,4,3,06/01/2020 ,5,2,27/12/2019 ,full time,chua co gia dinh,2,150,70,dang bi benh,co,co,oto
+902,FSI_902,0,2,3,2,70,1,0,1,29/07/2020 ,1,0,05/04/2020 ,full time,chua co gia dinh,0,175,40,dang bi benh,co,co,bus
+903,FSI_903,0,2,1,2,80,5,5,2,20/11/2019 ,1,0,22/09/2019 ,full time,co gia dinh,2,160,70,dang bi benh,co,khong,xe may
+904,FSI_904,4,1,2,2,70,3,4,1,04/04/2020 ,0,0,21/05/2020 ,full time,co gia dinh,0,180,50,khong bi benh,khong,khong,xe may
+905,FSI_905,3,2,3,5,100,0,4,1,26/12/2019 ,1,0,17/01/2020 ,full time,chua co gia dinh,1,175,50,khong bi benh,khong,khong,oto
+906,FSI_906,4,3,1,5,80,0,0,1,25/08/2020 ,1,1,26/12/2019 ,full time,chua co gia dinh,1,165,60,dang bi benh,khong,khong,xe may
+907,FSI_907,4,2,1,3,100,2,2,1,26/04/2020 ,1,0,10/12/2019 ,part time,co gia dinh,2,150,40,khong bi benh,khong,khong,xe may
+908,FSI_908,5,3,5,4,80,0,2,1,13/12/2019 ,0,2,17/10/2019 ,part time,chua co gia dinh,0,180,70,khong bi benh,khong,co,xe may
+909,FSI_909,3,2,0,4,80,5,5,1,05/05/2020 ,0,3,04/01/2020 ,full time,co gia dinh,1,180,70,khong bi benh,khong,khong,bus
+910,FSI_910,2,0,0,0,100,1,0,2,23/03/2020 ,0,4,19/07/2020 ,nghi phep,co gia dinh,1,170,70,dang bi benh,khong,co,xe may
+911,FSI_911,0,0,0,2,80,0,0,1,06/01/2020 ,0,0,04/11/2019 ,nghi phep,co gia dinh,2,175,50,dang bi benh,khong,khong,oto
+912,FSI_912,5,3,0,0,100,0,5,2,07/05/2020 ,4,1,18/08/2020 ,nghi phep,co gia dinh,2,150,40,khong bi benh,khong,co,oto
+913,FSI_913,0,1,2,4,100,3,4,1,28/01/2020 ,1,2,24/12/2019 ,part time,chua co gia dinh,0,165,40,dang bi benh,khong,co,bus
+914,FSI_914,3,5,0,3,90,2,3,1,27/02/2020 ,0,3,21/09/2019 ,part time,chua co gia dinh,1,170,60,dang bi benh,co,co,xe may
+915,FSI_915,3,0,2,0,80,0,0,1,17/05/2020 ,1,2,11/01/2020 ,nghi phep,co gia dinh,1,170,60,khong bi benh,khong,khong,oto
+916,FSI_916,0,1,3,2,80,0,0,1,10/12/2019 ,0,0,09/05/2020 ,part time,chua co gia dinh,2,170,40,khong bi benh,co,co,xe may
+917,FSI_917,1,0,4,0,70,0,4,1,27/06/2020 ,5,3,23/10/2019 ,part time,co gia dinh,1,175,40,khong bi benh,co,khong,oto
+918,FSI_918,4,1,0,2,100,2,3,1,14/11/2019 ,0,0,10/08/2020 ,part time,co gia dinh,0,150,40,khong bi benh,co,co,xe may
+919,FSI_919,2,0,3,2,90,1,5,2,25/10/2019 ,3,2,20/06/2020 ,part time,co gia dinh,2,175,60,dang bi benh,co,khong,xe may
+920,FSI_920,2,2,4,4,90,5,1,1,31/10/2019 ,0,0,01/02/2020 ,full time,co gia dinh,2,175,70,dang bi benh,khong,co,xe may
+921,FSI_921,5,0,2,3,90,2,0,1,15/05/2020 ,2,5,21/09/2019 ,nghi phep,chua co gia dinh,1,175,70,dang bi benh,khong,co,xe may
+922,FSI_922,0,3,0,1,100,1,1,2,30/01/2020 ,0,1,01/11/2019 ,part time,co gia dinh,0,165,50,dang bi benh,khong,khong,xe may
+923,FSI_923,0,4,1,0,100,4,1,1,07/06/2020 ,1,0,16/11/2019 ,full time,chua co gia dinh,1,180,50,dang bi benh,co,khong,xe may
+924,FSI_924,0,0,1,0,100,5,3,1,30/10/2019 ,0,5,24/02/2020 ,part time,co gia dinh,0,175,40,dang bi benh,co,khong,xe may
+925,FSI_925,1,0,0,2,90,2,1,1,20/10/2019 ,2,2,14/11/2019 ,part time,chua co gia dinh,2,170,70,khong bi benh,co,co,xe may
+926,FSI_926,5,0,0,1,70,2,5,2,08/01/2020 ,0,0,17/12/2019 ,part time,co gia dinh,2,170,50,dang bi benh,co,khong,bus
+927,FSI_927,4,4,5,1,80,0,0,1,20/04/2020 ,0,2,20/01/2020 ,nghi phep,co gia dinh,1,175,40,khong bi benh,khong,co,oto
+928,FSI_928,0,2,0,2,80,3,4,1,27/03/2020 ,0,0,12/11/2019 ,nghi phep,chua co gia dinh,0,160,40,khong bi benh,khong,khong,bus
+929,FSI_929,3,3,5,0,70,1,2,2,29/10/2019 ,2,1,11/12/2019 ,nghi phep,chua co gia dinh,1,170,70,khong bi benh,khong,khong,xe may
+930,FSI_930,0,2,4,2,90,2,2,1,24/12/2019 ,4,2,21/03/2020 ,part time,co gia dinh,0,165,70,dang bi benh,khong,co,bus
+931,FSI_931,0,1,0,0,80,2,2,1,10/03/2020 ,5,1,06/11/2019 ,part time,co gia dinh,0,175,40,khong bi benh,khong,khong,xe may
+932,FSI_932,3,0,0,2,80,4,0,2,18/08/2020 ,0,2,24/01/2020 ,full time,co gia dinh,1,165,60,dang bi benh,co,khong,xe may
+933,FSI_933,0,5,3,4,100,4,5,1,14/04/2020 ,4,5,11/03/2020 ,nghi phep,chua co gia dinh,1,180,40,khong bi benh,co,co,bus
+934,FSI_934,1,2,2,2,90,2,4,1,17/12/2019 ,0,0,21/06/2020 ,nghi phep,co gia dinh,1,180,50,khong bi benh,co,co,xe may
+935,FSI_935,0,5,2,3,80,5,0,1,01/11/2019 ,1,3,22/12/2019 ,full time,chua co gia dinh,0,180,60,khong bi benh,co,co,bus
+936,FSI_936,5,0,5,3,70,1,1,1,16/09/2019 ,2,1,18/03/2020 ,part time,co gia dinh,3,180,70,khong bi benh,khong,co,xe may
+937,FSI_937,5,3,1,2,70,0,5,2,15/06/2020 ,0,5,19/03/2020 ,nghi phep,co gia dinh,1,175,40,khong bi benh,co,khong,xe may
+938,FSI_938,0,3,4,0,80,4,1,2,18/04/2020 ,2,0,29/08/2020 ,nghi phep,co gia dinh,1,160,40,khong bi benh,co,co,bus
+939,FSI_939,3,0,5,5,90,5,3,2,25/08/2020 ,4,0,11/07/2020 ,full time,chua co gia dinh,0,180,40,dang bi benh,khong,khong,xe may
+940,FSI_940,1,2,4,1,90,0,0,1,17/01/2020 ,5,4,26/12/2019 ,full time,co gia dinh,1,150,50,khong bi benh,co,co,bus
+941,FSI_941,3,4,4,1,70,1,1,1,05/01/2020 ,5,4,08/12/2019 ,part time,chua co gia dinh,2,165,50,khong bi benh,co,khong,xe may
+942,FSI_942,5,0,5,2,70,1,0,1,25/05/2020 ,0,0,03/08/2020 ,nghi phep,chua co gia dinh,2,170,70,khong bi benh,khong,khong,oto
+943,FSI_943,1,4,5,0,100,5,0,1,17/09/2019 ,2,0,03/06/2020 ,part time,chua co gia dinh,2,150,40,dang bi benh,co,co,xe may
+944,FSI_944,1,2,2,0,100,3,1,1,08/11/2019 ,4,4,17/12/2019 ,nghi phep,co gia dinh,2,175,60,khong bi benh,khong,khong,oto
+945,FSI_945,4,4,1,3,100,0,5,1,18/06/2020 ,2,0,31/01/2020 ,full time,co gia dinh,0,150,40,dang bi benh,co,co,bus
+946,FSI_946,0,0,1,3,80,4,4,1,12/02/2020 ,1,5,29/05/2020 ,full time,co gia dinh,2,180,40,dang bi benh,co,co,xe may
+947,FSI_947,0,4,0,3,80,4,3,1,03/09/2020 ,2,0,17/02/2020 ,part time,chua co gia dinh,2,170,40,dang bi benh,co,khong,xe may
+948,FSI_948,2,3,4,2,70,3,0,2,19/10/2019 ,4,2,16/07/2020 ,nghi phep,chua co gia dinh,1,160,40,khong bi benh,co,khong,xe may
+949,FSI_949,2,0,1,4,90,1,2,1,30/10/2019 ,2,0,21/03/2020 ,part time,co gia dinh,3,150,70,khong bi benh,khong,co,oto
+950,FSI_950,2,0,5,2,100,0,4,3,07/08/2020 ,0,3,06/12/2019 ,part time,chua co gia dinh,2,180,60,khong bi benh,khong,khong,xe may
+951,FSI_951,2,2,3,0,90,2,4,3,19/02/2020 ,0,4,19/02/2020 ,part time,co gia dinh,1,150,60,dang bi benh,khong,co,xe may
+952,FSI_952,1,0,5,3,70,2,5,1,10/12/2019 ,1,0,19/06/2020 ,part time,co gia dinh,0,180,40,khong bi benh,co,khong,bus
+953,FSI_953,1,5,0,0,100,5,5,1,09/07/2020 ,1,3,02/10/2019 ,full time,co gia dinh,2,180,50,khong bi benh,co,co,bus
+954,FSI_954,4,2,3,5,70,2,2,2,13/01/2020 ,0,0,23/01/2020 ,full time,co gia dinh,0,175,40,khong bi benh,co,khong,oto
+955,FSI_955,0,0,0,0,70,0,2,1,21/08/2020 ,2,5,14/01/2020 ,nghi phep,co gia dinh,0,160,60,khong bi benh,khong,co,bus
+956,FSI_956,2,2,2,0,90,2,0,1,11/10/2019 ,0,5,08/06/2020 ,part time,chua co gia dinh,2,160,70,dang bi benh,khong,khong,oto
+957,FSI_957,3,0,5,2,100,2,1,1,16/11/2019 ,2,4,17/11/2019 ,part time,co gia dinh,2,150,70,khong bi benh,co,co,xe may
+958,FSI_958,3,5,0,5,70,5,4,2,21/12/2019 ,0,1,07/08/2020 ,part time,chua co gia dinh,0,160,50,dang bi benh,co,khong,xe may
+959,FSI_959,5,3,1,5,80,0,0,1,04/05/2020 ,4,4,15/08/2020 ,nghi phep,chua co gia dinh,0,175,40,dang bi benh,co,khong,xe may
+960,FSI_960,5,5,2,0,100,5,3,3,09/05/2020 ,1,5,26/04/2020 ,nghi phep,co gia dinh,1,180,40,dang bi benh,co,co,oto
+961,FSI_961,1,2,5,0,100,0,2,2,27/03/2020 ,2,0,15/03/2020 ,part time,chua co gia dinh,0,170,70,khong bi benh,co,khong,xe may
+962,FSI_962,3,5,3,5,90,0,1,1,04/01/2020 ,4,2,17/01/2020 ,nghi phep,chua co gia dinh,1,170,60,dang bi benh,khong,khong,bus
+963,FSI_963,0,5,0,1,100,2,0,1,18/06/2020 ,0,0,12/04/2020 ,full time,co gia dinh,2,150,70,dang bi benh,co,co,oto
+964,FSI_964,3,5,1,2,80,2,1,1,10/02/2020 ,4,1,06/09/2020 ,nghi phep,co gia dinh,2,150,60,dang bi benh,co,khong,oto
+965,FSI_965,1,4,2,0,80,0,3,1,29/01/2020 ,1,2,18/01/2020 ,nghi phep,co gia dinh,1,180,70,dang bi benh,khong,co,oto
+966,FSI_966,4,5,0,0,100,2,4,1,09/04/2020 ,1,2,10/06/2020 ,nghi phep,co gia dinh,2,180,70,khong bi benh,co,khong,xe may
+967,FSI_967,0,5,0,0,70,0,5,1,15/08/2020 ,1,5,27/04/2020 ,part time,co gia dinh,1,165,40,dang bi benh,khong,khong,xe may
+968,FSI_968,0,4,4,2,100,0,5,3,18/05/2020 ,5,3,01/09/2020 ,nghi phep,chua co gia dinh,0,160,60,dang bi benh,co,khong,xe may
+969,FSI_969,2,0,1,0,70,0,2,1,18/05/2020 ,3,2,22/07/2020 ,full time,chua co gia dinh,0,160,60,dang bi benh,khong,khong,oto
+970,FSI_970,2,5,5,1,80,0,0,2,26/11/2019 ,5,4,25/01/2020 ,part time,chua co gia dinh,2,180,50,khong bi benh,co,co,xe may
+971,FSI_971,1,0,4,4,70,4,4,2,16/11/2019 ,2,2,21/03/2020 ,part time,chua co gia dinh,2,180,70,khong bi benh,khong,khong,oto
+972,FSI_972,5,0,4,5,100,0,5,1,12/09/2019 ,0,0,02/11/2019 ,part time,co gia dinh,2,160,40,dang bi benh,co,khong,xe may
+973,FSI_973,1,5,1,5,80,5,3,1,22/01/2020 ,4,3,20/12/2019 ,nghi phep,chua co gia dinh,1,165,70,khong bi benh,co,co,bus
+974,FSI_974,0,3,4,2,70,0,1,2,13/02/2020 ,1,5,13/05/2020 ,full time,co gia dinh,0,180,50,khong bi benh,co,khong,xe may
+975,FSI_975,4,2,2,0,100,0,3,2,20/07/2020 ,0,0,30/11/2019 ,part time,chua co gia dinh,2,165,60,khong bi benh,co,co,xe may
+976,FSI_976,4,2,3,1,100,0,2,2,01/05/2020 ,5,3,16/03/2020 ,part time,co gia dinh,1,180,60,dang bi benh,co,co,bus
+977,FSI_977,1,5,1,3,100,1,5,1,27/11/2019 ,1,0,22/10/2019 ,full time,chua co gia dinh,2,150,50,dang bi benh,khong,co,xe may
+978,FSI_978,2,1,3,3,100,0,2,1,13/07/2020 ,0,3,24/05/2020 ,nghi phep,chua co gia dinh,1,170,40,khong bi benh,co,khong,oto
+979,FSI_979,2,1,3,0,80,0,2,1,28/03/2020 ,1,1,16/09/2019 ,full time,chua co gia dinh,0,150,40,dang bi benh,co,khong,xe may
+980,FSI_980,3,2,1,2,90,2,0,2,04/04/2020 ,0,1,08/10/2019 ,part time,chua co gia dinh,0,165,60,dang bi benh,khong,khong,oto
+981,FSI_981,5,3,0,2,80,1,5,1,20/12/2019 ,0,4,14/03/2020 ,part time,chua co gia dinh,2,165,40,khong bi benh,co,khong,xe may
+982,FSI_982,5,4,0,0,100,1,4,1,28/04/2020 ,1,1,18/10/2019 ,nghi phep,chua co gia dinh,2,170,70,dang bi benh,khong,khong,xe may
+983,FSI_983,5,5,2,0,70,0,1,1,11/03/2020 ,2,2,20/10/2019 ,part time,co gia dinh,2,150,50,khong bi benh,khong,co,bus
+984,FSI_984,2,4,0,4,100,4,0,1,17/01/2020 ,0,0,09/10/2019 ,nghi phep,co gia dinh,1,150,40,dang bi benh,co,co,xe may
+985,FSI_985,0,0,0,3,70,0,4,1,02/07/2020 ,1,5,17/04/2020 ,part time,chua co gia dinh,2,180,40,khong bi benh,co,khong,bus
+986,FSI_986,0,0,1,4,100,5,5,1,29/09/2019 ,0,1,27/09/2019 ,part time,co gia dinh,3,175,40,dang bi benh,co,co,xe may
+987,FSI_987,0,1,0,5,80,0,0,3,19/09/2019 ,2,0,27/12/2019 ,full time,co gia dinh,0,165,60,khong bi benh,khong,khong,xe may
+988,FSI_988,2,4,2,1,90,0,1,1,10/01/2020 ,2,1,02/06/2020 ,nghi phep,chua co gia dinh,0,150,60,dang bi benh,co,khong,oto
+989,FSI_989,0,0,1,0,70,1,2,2,09/02/2020 ,5,2,05/01/2020 ,part time,chua co gia dinh,0,170,70,dang bi benh,khong,khong,xe may
+990,FSI_990,0,0,0,4,80,0,0,2,11/03/2020 ,0,0,30/03/2020 ,full time,co gia dinh,1,170,50,dang bi benh,khong,co,xe may
+991,FSI_991,1,1,0,3,70,2,4,1,17/02/2020 ,2,2,08/12/2019 ,full time,chua co gia dinh,1,180,50,khong bi benh,khong,khong,oto
+992,FSI_992,3,1,4,1,100,5,1,1,01/03/2020 ,2,2,07/05/2020 ,part time,co gia dinh,2,175,50,khong bi benh,co,khong,xe may
+993,FSI_993,0,1,4,5,70,0,1,1,23/01/2020 ,1,0,21/03/2020 ,part time,chua co gia dinh,2,160,50,khong bi benh,khong,khong,xe may
+994,FSI_994,1,4,0,5,80,0,0,1,09/07/2020 ,5,0,23/08/2020 ,part time,chua co gia dinh,1,180,60,khong bi benh,co,co,xe may
+995,FSI_995,1,0,0,0,80,2,0,1,30/03/2020 ,4,2,14/09/2019 ,nghi phep,co gia dinh,2,160,70,dang bi benh,khong,khong,oto
+996,FSI_996,2,0,3,3,100,2,1,2,31/12/2019 ,1,1,28/12/2019 ,part time,co gia dinh,0,180,70,khong bi benh,co,co,xe may
+997,FSI_997,3,1,1,2,90,2,2,1,25/07/2020 ,3,4,07/12/2019 ,nghi phep,chua co gia dinh,1,165,40,dang bi benh,co,khong,xe may
+998,FSI_998,3,5,3,1,100,0,1,1,23/03/2020 ,0,4,04/10/2019 ,part time,chua co gia dinh,0,175,40,dang bi benh,khong,co,bus
+999,FSI_999,1,1,2,4,70,0,2,2,14/04/2020 ,2,2,02/03/2020 ,part time,chua co gia dinh,1,175,50,khong bi benh,khong,khong,oto
