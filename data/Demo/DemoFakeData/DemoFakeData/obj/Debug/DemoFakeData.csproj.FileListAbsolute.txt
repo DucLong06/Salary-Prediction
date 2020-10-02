@@ -1,0 +1,10 @@
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\bin\Debug\DemoFakeData.exe.config
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\bin\Debug\DemoFakeData.exe
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\bin\Debug\DemoFakeData.pdb
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.csprojAssemblyReference.cache
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.Form1.resources
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.Properties.Resources.resources
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.csproj.GenerateResource.cache
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.csproj.CoreCompileInputs.cache
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.exe
+C:\Users\LongHD\Desktop\Salary-Prediction\data\Demo\DemoFakeData\DemoFakeData\obj\Debug\DemoFakeData.pdb
