@@ -49,3 +49,6 @@ số công ty đã từng làm việc
 # Có uống rượu hay không 
 
 # Phương tiện đi lại 
+
+
+

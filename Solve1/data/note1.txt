@@ -1,0 +1,8 @@
+1.Xét thời gian là 6 tháng.
+2.Sử dụng các trường : 
+    2.1.Số lần bị cảnh cáo (đi muộn,về sớm, ăn mặc không đúng quy định,...)
+        (tổng hợp từ bảng chấm công và văn bản của phòng nhân sự).
+    2.2.Số project đã làm.
+    2.3.Tổng độ khó của từng project(D -> A).
+    2.4.Đạt mục tiêu đề ra(thang 100% (Nếu xong sớm sẽ có thể lớn hơn 100%)).
+    2.5.Chất lượng project (good,bad,medium).
